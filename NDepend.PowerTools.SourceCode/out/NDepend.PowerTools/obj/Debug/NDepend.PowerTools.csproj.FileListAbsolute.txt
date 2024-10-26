@@ -1,0 +1,6 @@
+C:\code\NDepend\NDepend.PowerTools.SourceCode\out\NDepend.PowerTools\obj\Debug\NDepend.PowerTools.csproj.AssemblyReference.cache
+C:\code\NDepend\NDepend.PowerTools.SourceCode\out\NDepend.PowerTools\obj\Debug\NDepend.PowerTools.csproj.CoreCompileInputs.cache
+C:\code\NDepend\NDepend.PowerTools.SourceCode\out\NDepend.PowerTools\obj\Debug\NDepend.PowerTools.exe
+C:\code\NDepend\NDepend.PowerTools.SourceCode\out\NDepend.PowerTools\obj\Debug\NDepend.PowerTools.pdb
+C:\code\NDepend\NDepend.PowerTools.exe
+C:\code\NDepend\NDepend.PowerTools.pdb

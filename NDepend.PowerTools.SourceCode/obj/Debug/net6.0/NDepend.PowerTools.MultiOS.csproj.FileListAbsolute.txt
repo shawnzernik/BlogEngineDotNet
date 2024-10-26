@@ -1,0 +1,13 @@
+C:\code\NDepend\net6.0\NDepend.PowerTools.MultiOS.exe
+C:\code\NDepend\net6.0\NDepend.PowerTools.MultiOS.deps.json
+C:\code\NDepend\net6.0\NDepend.PowerTools.MultiOS.runtimeconfig.json
+C:\code\NDepend\net6.0\NDepend.PowerTools.MultiOS.dll
+C:\code\NDepend\net6.0\NDepend.PowerTools.MultiOS.pdb
+C:\code\NDepend\NDepend.PowerTools.SourceCode\obj\Debug\net6.0\NDepend.PowerTools.MultiOS.csproj.AssemblyReference.cache
+C:\code\NDepend\NDepend.PowerTools.SourceCode\obj\Debug\net6.0\NDepend.PowerTools.MultiOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\NDepend\NDepend.PowerTools.SourceCode\obj\Debug\net6.0\NDepend.PowerTools.MultiOS.csproj.CoreCompileInputs.cache
+C:\code\NDepend\NDepend.PowerTools.SourceCode\obj\Debug\net6.0\NDepend.PowerTools.MultiOS.dll
+C:\code\NDepend\NDepend.PowerTools.SourceCode\obj\Debug\net6.0\refint\NDepend.PowerTools.MultiOS.dll
+C:\code\NDepend\NDepend.PowerTools.SourceCode\obj\Debug\net6.0\NDepend.PowerTools.MultiOS.pdb
+C:\code\NDepend\NDepend.PowerTools.SourceCode\obj\Debug\net6.0\NDepend.PowerTools.MultiOS.genruntimeconfig.cache
+C:\code\NDepend\NDepend.PowerTools.SourceCode\obj\Debug\net6.0\ref\NDepend.PowerTools.MultiOS.dll
