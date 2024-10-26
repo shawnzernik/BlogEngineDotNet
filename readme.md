@@ -54,29 +54,10 @@ For this process, we'll use NDepend:
 
 - <https://www.ndepend.com/download>
 
-Right click the zip file, and choose properties.  At the bottom of the properties, you might have a checkbox to 'unblock'.  Check this and click OK.  This will allow the executables inside the zip file to execute.  Otherwise, when you double click, nothing will happen.
+For the file dependencies, you'll want to use the project we provided: `NDepend.PowerTools.SourceCode`.  When ran, you'll choose "Dependency Report".  This will write the output file to `c:\code\dependencies.csv`.  This is a modified NDepends Power Tools application.  It expects that `NDepends` is installed into `c:\code\NDepends`.
 
-When you get nDepend up and running, you'll want to use a query such as:
+Sort the data in the CSV by "used_count" small to large, and "uses_me_count" large to small.  This will prioritize the files that done have dependencies while sufficing the dependencies needed by many.
 
-```
-from t in Application.Types
-where t.SourceDecls.Any()
-select new { 
-   t,
-   t.FullName,
-   t.SourceDecls.FirstOrDefault().SourceFile.FilePathString,
-   t.SourceDecls.FirstOrDefault().SourceFile.NbLines,
-   t.NbTypesUsingMe,
-   t.NbTypesUsed
-}
-```
-
-We'll want to export this to CSV and then massage the data:
-
-1. Select the numeric columns and do a replace a space (' ') with an empty string ('') - nDepend adds a space where one would usually use commas (1,000,000 vs 1 000 000)
-2. Sort the table by FilePathString and then FullName
-3. Add a column to the right named 'FileMultipleTimes' with the following formula: `=OR(C2=C1,C2=C3)`
-4. Keep only the FullName, FilePathString, NbILInstructions, NbLinesOfCode, NbTypesUsingMe, and NbTypesUsed columns
 
 When looking over the file that are multiple times on the list, if the pattern you find is multiple 'types' per file, we'll want to refactor this to a single type per file.
 
@@ -96,7 +77,7 @@ This covers the completion as the project progresses.  To get a full picture of 
 As the conversion occurs, we can track the following:
 
 - Initial Conversion
-  - Put a completed date in the file.  Using this, you could inport the table into SQL to calculate velocities and completion dates.
+  - Put a completed date in the file.  Using this, you could import the table into SQL to calculate velocities and completion dates.
 - Bootstrapping
   - We will need to assemble all the converted files, and the non-code artifacts into a working system.
   - This should be a multiple of the 'Initial Conversion' time.
@@ -106,7 +87,7 @@ As the conversion occurs, we can track the following:
 
 ### 1.6 Order of Work
 
-We'll want to work the classes with the lowest number of types used (NbTypeUsed) and the highest number of type using it (NbTypesUsingMe).
+We'll want to work the classes with the lowest number of types used (use) and the highest number of type using it (NbTypesUsingMe).
 
 ### 1.7 Code Review
 
@@ -138,5 +119,45 @@ Document anti-patterns as you run into them.  These would include items the syst
 
 These contradictions will be used to eliminate candidate applications that don't convert nicely.  It could also be used to determine where to invest time to improve tooling, template prompts, and or additional dataset training.
 
-## 2.2 File Conversion
+#### 2.1.2 Status Tracker
 
+We've taken out `dependencies.csv` file and sorted by:
+
+![Sorting](./readme.md.files/sort.png)
+
+I've added the following columns to track status and information about status, improvements, and patterns:
+
+- Completed - date
+- Notes - approach reasoning and authoritative references
+- Pattern / Prompt - Aici prompt title
+- Correction / Dataset - Aici dataset title
+- Anti-Pattern / Contradictions - explanation or blocker and impact
+
+## 2.2 Conversion
+
+Make sure you have a running copy of Aici:
+
+- <https://github.com/shawnzernik/ts-react-express>
+
+You'll want to configure the API Key using you OpenAI API Key.  Upload a zip of the latest Aici and finetune Aici.  You should have a base configured system from training during development.  This can be used to enhance Aici as well.
+
+### 2.2.1 First File
+
+We'll be targeting a specific type within a file.  If their is a nested type associated (Type+Type), do the nested type first.
+
+We'll create a prompt:
+
+- Title: BlogEngine - No React - Type in File - 0 Dependencies
+- Input: leave blank for now
+
+#### User
+
+<!! project ORIGINAL_FILE ~/BlogEngineDotNet/BlogEngine.NET/BlogEngine/BlogEngine.Core/Data/Contracts/IDashboardRepository.cs !!/>
+
+Convert the TYPE_NAME in %ORIGINAL_FILE% to TypeScript and use React where nessisary.
+
+%SAVE_PROMPT%
+
+#### Assistant
+
+Save: TARGET_FILE
