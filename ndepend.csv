@@ -1,370 +1,370 @@
-369 types,FullName,FilePathString,# IL instructions,# lines of code (LOC),NbTypesUsingMe,NbTypesUsed
-search,search,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\search.aspx.cs,713,109,0,45
-post,post,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\post.aspx.cs,844,105,0,46
-page,page,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\page.aspx.cs,435,64,0,33
-error404,error404,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\error404.aspx.cs,393,57,0,29
-error_occurred,error_occurred,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\error.aspx.cs,64,9,0,20
-_default,_default,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\default.aspx.cs,1 272,151,0,59
-contact,contact,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\contact.aspx.cs,906,95,0,50
-archive,archive,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\archive.aspx.cs,848,137,0,51
-Admin.Menu,Admin.Menu,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\admin\menu.ascx.cs,216,30,0,34
-Admin.ExtensionsMasterPage,Admin.ExtensionsMasterPage,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\admin\admin.master.cs,45,8,0,20
-Admin.Extensions.Settings,Admin.Extensions.Settings,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\admin\Extensions\Settings.aspx.cs,215,29,0,33
-Admin.Extensions .UserControlSettings,Admin.Extensions.UserControlSettings,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\admin\Extensions\Settings.ascx.cs,1 778,264,1,90
-BlogEngine.NET.FrontPage,BlogEngine.NET.FrontPage,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\FrontPageExample.aspx.cs,2,0,0,9
-BlogEngine.NET.Custom.Widgets .Newsletter,BlogEngine.NET.Custom.Widgets.Newsletter,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\Custom\Widgets\Newsletter\Newsletter.cs,440,68,1,39
-BlogEngine.NET.Custom.Widgets .MonthList,BlogEngine.NET.Custom.Widgets.MonthList,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\Custom\Widgets\MonthList\MonthList.cs,233,34,0,26
-BlogEngine.NET.Custom.Widgets .MonthList+DateComparer_Desc,BlogEngine.NET.Custom.Widgets.MonthList+DateComparer_Desc,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\Custom\Widgets\MonthList\MonthList.cs,233,34,1,5
-BlogEngine.NET.Custom.Widgets .MonthList+IntComparer_Desc,BlogEngine.NET.Custom.Widgets.MonthList+IntComparer_Desc,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\Custom\Widgets\MonthList\MonthList.cs,233,34,1,4
-BlogEngine.NET.Custom.Widgets .MonthItem,BlogEngine.NET.Custom.Widgets.MonthItem,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\Custom\Widgets\MonthList\MonthList.cs,233,34,1,6
-BlogEngine.NET.Custom.Widgets .LinkList,BlogEngine.NET.Custom.Widgets.LinkList,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\Custom\Widgets\LinkList\LinkList.cs,422,79,0,18
-BlogEngine.NET.Custom.Widgets .LinkItem,BlogEngine.NET.Custom.Widgets.LinkItem,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\Custom\Widgets\LinkList\LinkList.cs,422,79,1,5
-BlogEngine.NET.Custom.Widgets .Common,BlogEngine.NET.Custom.Widgets.Common,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\Custom\Widgets\Common.cs,58,9,1,10
-BlogEngine.NET.Custom.Widgets .CategoryList,BlogEngine.NET.Custom.Widgets.CategoryList,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\Custom\Widgets\CategoryList\CategoryList.cs,103,12,0,18
-RazorHostSite,RazorHostSite,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\Custom\Themes\RazorHost\site.master.cs,158,26,0,28
-App_Code.Extensions.StopForumSpam,App_Code.Extensions.StopForumSpam,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\Custom\Extensions\StopForumSpam.cs,92,18,0,17
-Smilies,Smilies,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\Custom\Extensions\Smilies.cs,208,23,0,11
-App_Code.Controls .SimpleCaptchaControl,App_Code.Controls.SimpleCaptchaControl,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\Custom\Extensions\SimpleCaptcha\SimpleCaptchaControl.cs,259,43,1,26
-App_Code.Controls.SimpleCaptcha,App_Code.Controls.SimpleCaptcha,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\Custom\Extensions\SimpleCaptcha\SimpleCaptcha.cs,131,22,0,14
-SendPings,SendPings,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\Custom\Extensions\SendPings.cs,127,21,0,26
-SendNewsletters,SendNewsletters,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\Custom\Extensions\SendNewsletters.cs,27,5,0,12
-SendCommentMail,SendCommentMail,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\Custom\Extensions\SendCommentMail.cs,342,55,0,29
-ResolveLinks,ResolveLinks,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\Custom\Extensions\ResolveLinks.cs,271,41,0,18
-Recaptcha.RecaptchaValidator,Recaptcha.RecaptchaValidator,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\Custom\Extensions\Recaptcha\RecaptchaValidator.cs,293,44,1,33
-Recaptcha.RecaptchaResponse,Recaptcha.RecaptchaResponse,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\Custom\Extensions\Recaptcha\RecaptchaResponse.cs,97,19,2,7
-Recaptcha.RecaptchaLogger,Recaptcha.RecaptchaLogger,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\Custom\Extensions\Recaptcha\RecaptchaLogger.cs,265,26,1,25
-Recaptcha.RecaptchaLogItem,Recaptcha.RecaptchaLogItem,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\Custom\Extensions\Recaptcha\RecaptchaLogItem.cs,81,22,2,10
-App_Code.Controls.RecaptchaControl,App_Code.Controls.RecaptchaControl,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\Custom\Extensions\Recaptcha\RecaptchaControl.cs,964,117,4,46
-Recaptcha.Recaptcha,Recaptcha.Recaptcha,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\Custom\Extensions\Recaptcha\Recaptcha.cs,286,42,0,14
-MediaElementPlayer,MediaElementPlayer,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\Custom\Extensions\MediaElementPlayer.cs,861,106,0,40
-MediaElementPlayer+ShortCode,MediaElementPlayer+ShortCode,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\Custom\Extensions\MediaElementPlayer.cs,861,106,1,5
-App_Code.Extensions.Logger,App_Code.Extensions.Logger,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\Custom\Extensions\Logger.cs,207,30,0,31
-BreakPost,BreakPost,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\Custom\Extensions\BreakPost.cs,329,40,0,34
-BBCode,BBCode,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\Custom\Extensions\BBCode.cs,368,45,0,24
-App_Code.Extensions.AkismetFilter,App_Code.Extensions.AkismetFilter,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\Custom\Extensions\AkismetFilter.cs,819,128,0,24
-Joel.Net.Akismet,Joel.Net.Akismet,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\Custom\Extensions\AkismetFilter.cs,819,128,1,21
-Joel.Net.AkismetComment,Joel.Net.AkismetComment,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\Custom\Extensions\AkismetFilter.cs,819,128,2,5
-UserControls.PostList,UserControls.PostList,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\Custom\Controls\PostList.ascx.cs,473,71,1,40
-UserControls.CommentList,UserControls.CommentList,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\Custom\Controls\CommentList.ascx.cs,2 183,339,1,75
-Resources.labels,Resources.labels,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\App_GlobalResources\labels.designer.cs,7 443,830,22,11
-App_Code.WebUtils,App_Code.WebUtils,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\AppCode\WebUtils.cs,159,24,2,10
-RazorHelpers,RazorHelpers,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\AppCode\RazorHelpers.cs,398,69,2,51
-PersianCulture,PersianCulture,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\AppCode\PersianCulture.cs,459,30,1,17
-App_Code.Controls.WidgetZone,App_Code.Controls.WidgetZone,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\AppCode\Controls\WidgetZone.cs,220,33,0,29
-App_Code.Controls.WidgetContainer,App_Code.Controls.WidgetContainer,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\AppCode\Controls\WidgetContainer.cs,328,53,1,24
-App_Code.Controls .DefaultWidgetContainer,App_Code.Controls.DefaultWidgetContainer,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\AppCode\Controls\WidgetContainer.cs,328,53,1,17
-App_Code.Controls.WidgetBase,App_Code.Controls.WidgetBase,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\AppCode\Controls\WidgetBase.cs,96,17,2,19
-App_Code.Controls.SearchOnSearch,App_Code.Controls.SearchOnSearch,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\AppCode\Controls\SearchOnSearch.cs,237,38,0,28
-App_Code.Controls.SearchBox,App_Code.Controls.SearchBox,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\AppCode\Controls\SearchBox.cs,111,14,0,15
-App_Code.Controls.RelatedPosts,App_Code.Controls.RelatedPosts,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\AppCode\Controls\RelatedPosts.cs,372,60,1,32
-App_Code.Controls.PostPager,App_Code.Controls.PostPager,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\AppCode\Controls\PostPager.cs,784,118,1,32
-App_Code.Controls.PostCalendar,App_Code.Controls.PostCalendar,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\AppCode\Controls\PostCalendar.cs,653,72,1,47
-App_Code.Controls.PageMenu,App_Code.Controls.PageMenu,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\AppCode\Controls\PageMenu.cs,37,8,0,10
-App_Code.Controls .MonthList+DateComparer_Desc,App_Code.Controls.MonthList+DateComparer_Desc,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\AppCode\Controls\MonthList.cs,585,92,1,5
-App_Code.Controls .MonthList+DateComparer_Asc,App_Code.Controls.MonthList+DateComparer_Asc,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\AppCode\Controls\MonthList.cs,585,92,1,5
-App_Code.Controls .MonthList+MonthListDisplayOptions,App_Code.Controls.MonthList+MonthListDisplayOptions,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\AppCode\Controls\MonthList.cs,585,92,1,6
-App_Code.Controls.MonthList,App_Code.Controls.MonthList,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\AppCode\Controls\MonthList.cs,585,92,0,45
-App_Code.Controls .MobileThemeSwitch,App_Code.Controls.MobileThemeSwitch,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\AppCode\Controls\MobileThemeSwitch.cs,11,2,0,7
-BlogEngine.NET.App_Start .BlogEngineConfig,BlogEngine.NET.App_Start.BlogEngineConfig,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\AppCode\App_Start\BlogEngineConfig.cs,580,67,0,80
-WidgetsController,WidgetsController,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\AppCode\Api\WidgetsController.cs,38,6,0,15
-UsersController,UsersController,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\AppCode\Api\UsersController.cs,188,28,0,22
-UploadController,UploadController,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\AppCode\Api\UploadController.cs,592,76,0,55
-BlogEngine.NET.AppCode.Api .UnhandledExceptionLogger,BlogEngine.NET.AppCode.Api.UnhandledExceptionLogger,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\AppCode\Api\UnhandledExceptionLogger.cs,39,3,1,12
-BlogEngine.NET.AppCode.Api .UnauthorizedAccessExceptionFilter Attribute,BlogEngine.NET.AppCode.Api.UnauthorizedAccessExceptionFilterAttribute,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\AppCode\Api\UnauthorizedAccessExceptionFilterAttribute.cs,21,2,1,8
-TrashController,TrashController,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\AppCode\Api\TrashController.cs,68,9,0,17
-ToolsController,ToolsController,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\AppCode\Api\ToolsController.cs,293,49,0,30
-TagToUpdate,TagToUpdate,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\AppCode\Api\TagsController.cs,141,22,1,5
-TagsController,TagsController,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\AppCode\Api\TagsController.cs,141,22,0,23
-StatsController,StatsController,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\AppCode\Api\StatsController.cs,16,3,0,6
-SetupController,SetupController,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\AppCode\Api\SetupController.cs,14,2,0,6
-SettingsController,SettingsController,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\AppCode\Api\SettingsController.cs,187,31,0,29
-RolesController,RolesController,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\AppCode\Api\RolesController.cs,259,38,0,23
-PostsController,PostsController,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\AppCode\Api\PostsController.cs,191,28,0,24
-PingItem,PingItem,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\AppCode\Api\PingServicesController.cs,192,33,1,6
-PingServicesController,PingServicesController,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\AppCode\Api\PingServicesController.cs,192,33,0,22
-PagesController,PagesController,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\AppCode\Api\PagesController.cs,191,28,0,24
-PagerController,PagerController,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\AppCode\Api\PagerController.cs,11,1,0,6
-PackagesController,PackagesController,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\AppCode\Api\PackagesController.cs,401,73,0,31
-BlogEngine.NET.AppCode.Api .PackageExtraController,BlogEngine.NET.AppCode.Api.PackageExtraController,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\AppCode\Api\PackageExtraController.cs,43,7,0,15
-NewsFeedController,NewsFeedController,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\AppCode\Api\NewsFeedController.cs,85,20,0,18
-LookupsController,LookupsController,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\AppCode\Api\LookupsController.cs,42,10,0,16
-LogsController,LogsController,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\AppCode\Api\LogsController.cs,188,36,0,30
-FileSystemDataStreamProvider,FileSystemDataStreamProvider,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\AppCode\Api\FileSystemDataStreamProvider.cs,98,9,0,17
-FileManagerController,FileManagerController,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\AppCode\Api\FileManagerController.cs,157,23,0,28
-DashboardController,DashboardController,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\AppCode\Api\DashboardController.cs,16,3,0,6
-CustomFieldsController,CustomFieldsController,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\AppCode\Api\CustomFieldsController.cs,150,22,0,25
-CommentsController,CommentsController,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\AppCode\Api\CommentsController.cs,225,32,0,24
-CommentFilterController,CommentFilterController,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\AppCode\Api\CommentFilterController.cs,132,20,0,24
-CategoriesController,CategoriesController,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\AppCode\Api\CategoriesController.cs,181,27,0,23
-BlogsController,BlogsController,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\AppCode\Api\BlogsController.cs,181,27,0,24
-BlogRollController,BlogRollController,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\AppCode\Api\BlogRollController.cs,134,20,0,23
-Account.Register,Account.Register,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\Account\register.aspx.designer.cs,8,1,0,38
-Account.PasswordRetrieval,Account.PasswordRetrieval,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\Account\password-retrieval.aspx.designer.cs,8,1,0,28
-Account.Login,Account.Login,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\Account\login.aspx.designer.cs,8,1,0,26
-Account.CreateBlog,Account.CreateBlog,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\Account\create-blog.aspx.designer.cs,8,1,0,27
-Account.ChangePassword,Account.ChangePassword,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\Account\change-password.aspx.designer.cs,8,1,0,17
-Account.ChangePasswordSuccess,Account.ChangePasswordSuccess,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\Account\change-password-success.aspx.cs,N/A,N/A,0,7
-Account.AccountMasterPage,Account.AccountMasterPage,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\Account\account.master.cs,158,20,5,25
-BlogEngine.Core.Web.UrlRules,BlogEngine.Core.Web.UrlRules,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Web\UrlRules.cs,1 038,140,1,43
-BlogEngine.Core.Web.Scripting .WebResourceFilter,BlogEngine.Core.Web.Scripting.WebResourceFilter,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Web\Scripting\WebResourceFilter.cs,438,72,1,42
-BlogEngine.Core.Web.Scripting .PageHeader,BlogEngine.Core.Web.Scripting.PageHeader,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Web\Scripting\PageHeader.cs,495,93,1,30
-BlogEngine.Core.Web.Scripting .VariableMinification,BlogEngine.Core.Web.Scripting.VariableMinification,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Web\Scripting\JavascriptMinifier.cs,162,33,1,5
-BlogEngine.Core.Web.Scripting .JavascriptMinifier,BlogEngine.Core.Web.Scripting.JavascriptMinifier,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Web\Scripting\JavascriptMinifier.cs,162,33,1,12
-BlogEngine.Core.Web.Scripting .Helpers,BlogEngine.Core.Web.Scripting.Helpers,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Web\Scripting\Helpers.cs,308,46,3,20
-BlogEngine.Core.Web.HttpModules .WwwSubDomainModule,BlogEngine.Core.Web.HttpModules.WwwSubDomainModule,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Web\HttpModules\WwwSubDomainModule.cs,205,27,0,21
-BlogEngine.Core.Web.HttpModules .UrlRewrite,BlogEngine.Core.Web.HttpModules.UrlRewrite,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Web\HttpModules\UrlRewrite.cs,691,90,0,27
-BlogEngine.Core.Web.HttpModules .ReferrerModule,BlogEngine.Core.Web.HttpModules.ReferrerModule,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Web\HttpModules\ReferrerModule.cs,374,40,0,35
-BlogEngine.Core.Web.HttpModules .CompressionModule,BlogEngine.Core.Web.HttpModules.CompressionModule,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Web\HttpModules\CompressionModule.cs,386,54,2,33
-BlogEngine.Core.Web.HttpHandlers .TrackbackHandler,BlogEngine.Core.Web.HttpHandlers.TrackbackHandler,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Web\HttpHandlers\TrackbackHandler.cs,591,52,0,37
-BlogEngine.Core.Web.HttpHandlers .SyndicationHandler,BlogEngine.Core.Web.HttpHandlers.SyndicationHandler,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Web\HttpHandlers\SyndicationHandler.cs,833,122,0,55
-BlogEngine.Core.Web.HttpHandlers .SiteMap,BlogEngine.Core.Web.HttpHandlers.SiteMap,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Web\HttpHandlers\SiteMap.cs,232,36,0,28
-BlogEngine.Core.Web.HttpHandlers .Sioc,BlogEngine.Core.Web.HttpHandlers.Sioc,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Web\HttpHandlers\Sioc.cs,1 533,230,0,56
-BlogEngine.Core.Web.HttpHandlers .RsdHandler,BlogEngine.Core.Web.HttpHandlers.RsdHandler,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Web\HttpHandlers\RsdHandler.cs,159,29,0,17
-BlogEngine.Core.Web.HttpHandlers .ResourceHandler,BlogEngine.Core.Web.HttpHandlers.ResourceHandler,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Web\HttpHandlers\ResourceHandler.cs,417,67,1,34
-BlogEngine.Core.Web.HttpHandlers .RatingHandler,BlogEngine.Core.Web.HttpHandlers.RatingHandler,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Web\HttpHandlers\RatingHandler.cs,189,25,0,20
-BlogEngine.Core.Web.HttpHandlers .PingbackHandler,BlogEngine.Core.Web.HttpHandlers.PingbackHandler,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Web\HttpHandlers\PingbackHandler.cs,811,103,0,50
-BlogEngine.Core.Web.HttpHandlers .OpmlHandler,BlogEngine.Core.Web.HttpHandlers.OpmlHandler,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Web\HttpHandlers\OpmlHandler.cs,146,24,0,17
-BlogEngine.Core.Web.HttpHandlers .OpenSearchHandler,BlogEngine.Core.Web.HttpHandlers.OpenSearchHandler,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Web\HttpHandlers\OpenSearchHandler.cs,169,29,0,20
-BlogEngine.Core.Web.HttpHandlers .JavaScriptHandler,BlogEngine.Core.Web.HttpHandlers.JavaScriptHandler,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Web\HttpHandlers\JavaScriptHandler.cs,150,28,0,21
-BlogEngine.Core.Web.HttpHandlers .ImageHandler,BlogEngine.Core.Web.HttpHandlers.ImageHandler,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Web\HttpHandlers\ImageHandler.cs,320,30,0,27
-BlogEngine.Core.Web.HttpHandlers .FoafPerson,BlogEngine.Core.Web.HttpHandlers.FoafPerson,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Web\HttpHandlers\Foaf.cs,1 074,185,1,11
-BlogEngine.Core.Web.HttpHandlers .Foaf,BlogEngine.Core.Web.HttpHandlers.Foaf,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Web\HttpHandlers\Foaf.cs,1 074,185,0,46
-BlogEngine.Core.Web.HttpHandlers .FileHandler,BlogEngine.Core.Web.HttpHandlers.FileHandler,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Web\HttpHandlers\FileHandler.cs,308,28,0,24
-BlogEngine.Core.Web.HttpHandlers .BlogMLExportHandler,BlogEngine.Core.Web.HttpHandlers.BlogMLExportHandler,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Web\HttpHandlers\BlogMLExportHandler.cs,1 329,233,0,42
-BlogEngine.Core.Web.HttpHandlers .Apml+Concept,BlogEngine.Core.Web.HttpHandlers.Apml+Concept,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Web\HttpHandlers\Apml.cs,654,122,1,7
-BlogEngine.Core.Web.HttpHandlers .Apml,BlogEngine.Core.Web.HttpHandlers.Apml,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Web\HttpHandlers\Apml.cs,654,122,0,41
-BlogEngine.Core.Web.Extensions .ManagedExtension,BlogEngine.Core.Web.Extensions.ManagedExtension,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Web\Extensions\ManagedExtension.cs,830,102,9,28
-BlogEngine.Core.Web.Extensions .GenericHelper<T>,BlogEngine.Core.Web.Extensions.GenericHelper<T>,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Web\Extensions\ManagedExtension.cs,830,102,1,8
-BlogEngine.Core.Web.Extensions .ExtensionSettings,BlogEngine.Core.Web.Extensions.ExtensionSettings,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Web\Extensions\ExtensionSettings.cs,1 407,197,18,42
-BlogEngine.Core.Web.Extensions .ParameterType,BlogEngine.Core.Web.Extensions.ParameterType,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Web\Extensions\ExtensionParameter.cs,225,42,9,6
-BlogEngine.Core.Web.Extensions .ExtensionParameter,BlogEngine.Core.Web.Extensions.ExtensionParameter,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Web\Extensions\ExtensionParameter.cs,225,42,7,11
-BlogEngine.Core.Web.Extensions .ExtensionManager,BlogEngine.Core.Web.Extensions.ExtensionManager,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Web\Extensions\ExtensionManager.cs,937,139,25,46
-BlogEngine.Core.DataStore .XmlDocumentBehavior,BlogEngine.Core.DataStore.XmlDocumentBehavior,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Web\Extensions\DataStore\XMLDocumentBehavior.cs,159,26,3,20
-BlogEngine.Core.DataStore .WidgetData,BlogEngine.Core.DataStore.WidgetData,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Web\Extensions\DataStore\XMLDocumentBehavior.cs,159,26,3,6
-BlogEngine.Core.DataStore .WidgetSettings,BlogEngine.Core.DataStore.WidgetSettings,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Web\Extensions\DataStore\WidgetSettings.cs,17,4,5,7
-BlogEngine.Core.DataStore .StringDictionaryBehavior,BlogEngine.Core.DataStore.StringDictionaryBehavior,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Web\Extensions\DataStore\StringDictionaryBehavior.cs,139,24,1,20
-BlogEngine.Core.DataStore .SettingsBase,BlogEngine.Core.DataStore.SettingsBase,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Web\Extensions\DataStore\SettingsBase.cs,59,11,8,8
-BlogEngine.Core.DataStore .SerializableStringDictionary,BlogEngine.Core.DataStore.SerializableStringDictionary,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Web\Extensions\DataStore\SerializableStringDictionary.cs,116,22,1,15
-BlogEngine.Core.DataStore .ExtensionType,BlogEngine.Core.DataStore.ExtensionType,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Web\Extensions\DataStore\Interfaces.cs,N/A,N/A,11,5
-BlogEngine.Core.DataStore .ISettingsBehavior,BlogEngine.Core.DataStore.ISettingsBehavior,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Web\Extensions\DataStore\Interfaces.cs,N/A,N/A,9,4
-BlogEngine.Core.DataStore .ExtensionSettingsBehavior,BlogEngine.Core.DataStore.ExtensionSettingsBehavior,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Web\Extensions\DataStore\ExtensionSettingsBehavior.cs,23,3,1,7
-BlogEngine.Core.DataStore .ExtensionSettings,BlogEngine.Core.DataStore.ExtensionSettings,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Web\Extensions\DataStore\ExtensionSettings.cs,17,4,1,7
-BlogEngine.Core.Web.Controls .RewriteFormHtmlTextWriter,BlogEngine.Core.Web.Controls.RewriteFormHtmlTextWriter,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Web\Controls\RewriteFormHtmlTextWriter.cs,104,14,1,14
-BlogEngine.Core.Web.Controls .RelatedPost,BlogEngine.Core.Web.Controls.RelatedPost,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Web\Controls\RelatedPostsBase.cs,261,42,1,5
-BlogEngine.Core.Web.Controls .RelatedPostsBase,BlogEngine.Core.Web.Controls.RelatedPostsBase,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Web\Controls\RelatedPostsBase.cs,261,42,1,28
-BlogEngine.Core.Web.Controls .PostViewBase,BlogEngine.Core.Web.Controls.PostViewBase,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Web\Controls\PostViewBase.cs,652,84,2,42
-BlogEngine.Core.Web.Controls .PostNavigationBase,BlogEngine.Core.Web.Controls.PostNavigationBase,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Web\Controls\PostNavigationBase.cs,159,26,1,13
-BlogEngine.Core.Web.Controls .PageSiteMap,BlogEngine.Core.Web.Controls.PageSiteMap,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Web\Controls\PageSiteMap.cs,269,28,0,24
-BlogEngine.Core.Web.Controls .PageMenu,BlogEngine.Core.Web.Controls.PageMenu,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Web\Controls\PageMenu.cs,418,72,1,36
-BlogEngine.Core.Web.Controls .SortedExtension,BlogEngine.Core.Web.Controls.SortedExtension,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Web\Controls\ExtensionAttribute.cs,104,24,1,7
-BlogEngine.Core.Web.Controls .ExtensionAttribute,BlogEngine.Core.Web.Controls.ExtensionAttribute,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Web\Controls\ExtensionAttribute.cs,104,24,15,6
-BlogEngine.Core.Web.Controls .CommentViewBase,BlogEngine.Core.Web.Controls.CommentViewBase,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Web\Controls\CommentViewBase.cs,387,45,1,39
-BlogEngine.Core.Web.Controls .CommentFormBase,BlogEngine.Core.Web.Controls.CommentFormBase,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Web\Controls\CommentFormBase.cs,11,2,1,9
-BlogEngine.Core.Web.Controls .BlogBasePage,BlogEngine.Core.Web.Controls.BlogBasePage,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Web\Controls\BlogBasePage.cs,541,76,10,41
-BlogEngine.Core.Web .BlogCulture+ResourceType,BlogEngine.Core.Web.BlogCulture+ResourceType,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Web\BlogCulture.cs,3 253,800,2,5
-BlogEngine.Core.Web.BlogCulture,BlogEngine.Core.Web.BlogCulture,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Web\BlogCulture.cs,3 253,800,1,19
-BlogEngine.Core .SyndicationGenerator,BlogEngine.Core.SyndicationGenerator,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Services\Syndication\SyndicationGenerator.cs,2 142,293,1,62
-BlogEngine.Core.API.BlogML .BlogReader,BlogEngine.Core.API.BlogML.BlogReader,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Services\Syndication\BlogML\BlogReader.cs,1 151,165,1,64
-BlogEngine.Core.API.BlogML .BlogMlExtendedPost,BlogEngine.Core.API.BlogML.BlogMlExtendedPost,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Services\Syndication\BlogML\BlogMLExtendedPost.cs,39,10,2,10
-BlogEngine.Core.API.BlogML .BlogImporter,BlogEngine.Core.API.BlogML.BlogImporter,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Services\Syndication\BlogML\BlogImporter.cs,282,37,1,39
-BlogEngine.Core.API.BlogML .BaseReader,BlogEngine.Core.API.BlogML.BaseReader,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Services\Syndication\BlogML\BaseReader.cs,61,15,2,6
-BlogEngine.Core .SecuritySiteMapProvider,BlogEngine.Core.SecuritySiteMapProvider,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Services\Security\SecuritySiteMapProvider.cs,152,21,0,18
-BlogEngine.Core.AuthorizationCheck,BlogEngine.Core.AuthorizationCheck,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Services\Security\Security.cs,786,117,6,5
-BlogEngine.Core.Security,BlogEngine.Core.Security,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Services\Security\Security.cs,786,117,61,52
-BlogEngine.Core.Rights,BlogEngine.Core.Rights,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Services\Security\Rights.cs,26,7,41,6
-BlogEngine.Core.RightCategory,BlogEngine.Core.RightCategory,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Services\Security\Rights.cs,26,7,2,5
-BlogEngine.Core .RightDetailsAttribute,BlogEngine.Core.RightDetailsAttribute,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Services\Security\Rights.cs,26,7,2,7
-BlogEngine.Core.Right,BlogEngine.Core.Right,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Services\Security\Right.cs,1 331,215,9,51
-BlogEngine.Core.CustomPrincipal,BlogEngine.Core.CustomPrincipal,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Services\Security\CustomPrincipal.cs,44,6,1,7
-BlogEngine.Core.CustomIdentity,BlogEngine.Core.CustomIdentity,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Services\Security\CustomIdentity.cs,68,15,1,8
-BlogEngine.Core.Search,BlogEngine.Core.Search,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Services\Search\Search.cs,1 401,194,7,61
-BlogEngine.Core.Entry,BlogEngine.Core.Entry,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Services\Search\Search.cs,1 401,194,1,4
-BlogEngine.Core.Result,BlogEngine.Core.Result,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Services\Search\Search.cs,1 401,194,1,6
-BlogEngine.Core.Packaging.Pager,BlogEngine.Core.Packaging.Pager,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Services\Packaging\Pager.cs,101,20,0,7
-BlogEngine.Core.Packaging .PagerItem,BlogEngine.Core.Packaging.PagerItem,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Services\Packaging\Pager.cs,101,20,1,7
-BlogEngine.Core.Packaging .PackageFile,BlogEngine.Core.Packaging.PackageFile,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Services\Packaging\PackageFile.cs,32,8,6,7
-BlogEngine.Core.Packaging .Installer,BlogEngine.Core.Packaging.Installer,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Services\Packaging\Installer.cs,208,33,1,37
-BlogEngine.Core.Packaging .InstalledPackage,BlogEngine.Core.Packaging.InstalledPackage,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Services\Packaging\InstalledPackage.cs,18,4,6,5
-PackageExtra,PackageExtra,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Services\Packaging\GalleryData.cs,131,28,4,14
-Review,Review,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Services\Packaging\GalleryData.cs,131,28,3,7
-PackageExtra+PackageType,PackageExtra+PackageType,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Services\Packaging\GalleryData.cs,131,28,2,5
-BlogEngine.Core.Packaging.Gallery,BlogEngine.Core.Packaging.Gallery,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Services\Packaging\Gallery.cs,450,55,4,40
-BlogEngine.Core.Packaging .FileSystem,BlogEngine.Core.Packaging.FileSystem,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Services\Packaging\FileSystem.cs,1 771,261,4,65
-BlogEngine.Core.Packaging .Constants,BlogEngine.Core.Packaging.Constants,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Services\Packaging\Constants.cs,0,0,0,3
-BlogEngine.Core.ICustomFilter,BlogEngine.Core.ICustomFilter,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Services\Messaging\Protection\ICustomFilter.cs,N/A,N/A,3,3
-BlogEngine.Core.CommentHandlers,BlogEngine.Core.CommentHandlers,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Services\Messaging\Protection\CommentHandlers.cs,1 550,236,1,49
-BlogEngine.Core.Ping .TrackbackMessage,BlogEngine.Core.Ping.TrackbackMessage,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Services\Messaging\Ping\TrackbackMessage.cs,103,19,2,12
-BlogEngine.Core.Ping.Trackback,BlogEngine.Core.Ping.Trackback,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Services\Messaging\Ping\Trackback.cs,227,26,1,30
-BlogEngine.Core.Ping.Pingback,BlogEngine.Core.Ping.Pingback,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Services\Messaging\Ping\Pingback.cs,331,47,1,35
-BlogEngine.Core.Ping.PingService,BlogEngine.Core.Ping.PingService,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Services\Messaging\Ping\PingService.cs,133,28,1,22
-BlogEngine.Core.Ping.Manager,BlogEngine.Core.Ping.Manager,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Services\Messaging\Ping\Manager.cs,166,27,1,29
-BlogEngine.Core.FileSystem .Image+ModificationType,BlogEngine.Core.FileSystem.Image+ModificationType,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Services\FileSystem\Image.cs,641,118,1,5
-BlogEngine.Core.FileSystem.Image,BlogEngine.Core.FileSystem.Image,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Services\FileSystem\Image.cs,641,118,6,46
-BlogEngine.Core.FileSystem .FileSystemUtilities,BlogEngine.Core.FileSystem.FileSystemUtilities,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Services\FileSystem\FileSystemUtilities.cs,373,75,0,36
-BlogEngine.Core.FileSystem .FileStoreFileThumb,BlogEngine.Core.FileSystem.FileStoreFileThumb,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Services\FileSystem\FileStoreDb.cs,1 304,177,3,24
-BlogEngine.Core.FileSystem .FileStoreFile,BlogEngine.Core.FileSystem.FileStoreFile,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Services\FileSystem\FileStoreDb.cs,1 304,177,5,29
-BlogEngine.Core.FileSystem .FileStoreDb,BlogEngine.Core.FileSystem.FileStoreDb,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Services\FileSystem\FileStoreDb.cs,1 304,177,1,13
-BlogEngine.Core.FileSystem .FileStoreDirectory,BlogEngine.Core.FileSystem.FileStoreDirectory,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Services\FileSystem\FileStoreDb.cs,1 304,177,4,25
-BlogEngine.Core.FileSystem.File,BlogEngine.Core.FileSystem.File,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Services\FileSystem\File.cs,439,57,15,32
-BlogEngine.Core.FileSystem .Directory,BlogEngine.Core.FileSystem.Directory,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Services\FileSystem\Directory.cs,269,43,15,22
-BlogEngine.Core.FileSystem .FileInstance,BlogEngine.Core.FileSystem.FileInstance,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Services\FileSystem\Common.cs,185,36,4,8
-BlogEngine.Core.FileSystem .FileResponse,BlogEngine.Core.FileSystem.FileResponse,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Services\FileSystem\Common.cs,185,36,0,8
-BlogEngine.Core.FileSystem .FileType,BlogEngine.Core.FileSystem.FileType,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Services\FileSystem\Common.cs,185,36,3,5
-BlogEngine.Core.Compilation .SessionExpressionBuilder,BlogEngine.Core.Compilation.SessionExpressionBuilder,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Services\Compilation\SessionExpressionBuilder.cs,25,3,0,9
-BlogEngine.Core.Compilation .ServerVariableExpressionBuilder,BlogEngine.Core.Compilation.ServerVariableExpressionBuilder,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Services\Compilation\ServerVariableExpressionBuilder.cs,26,3,0,10
-BlogEngine.Core.Compilation .ReflectExpressionBuilder,BlogEngine.Core.Compilation.ReflectExpressionBuilder,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Services\Compilation\ReflectExpressionBuilder.cs,225,37,0,20
-BlogEngine.Core.Compilation .QueryStringExpressionBuilder,BlogEngine.Core.Compilation.QueryStringExpressionBuilder,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Services\Compilation\QueryStringExpressionBuilder.cs,26,3,0,10
-BlogEngine.Core.Compilation .LinqLengthExpressionBuilder,BlogEngine.Core.Compilation.LinqLengthExpressionBuilder,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Services\Compilation\LinqLengthExpressionBuilder.cs,136,18,0,21
-BlogEngine.Core.Compilation.Design .SessionExpressionEditor,BlogEngine.Core.Compilation.Design.SessionExpressionEditor,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Services\Compilation\Design\SessionExpressionEditor.cs,13,1,0,6
-BlogEngine.Core.Compilation.Design .ServerVariableExpressionEditor,BlogEngine.Core.Compilation.Design.ServerVariableExpressionEditor,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Services\Compilation\Design\ServerVariableExpressionEditor.cs,357,19,1,9
-BlogEngine.Core.Compilation.Design .ServerVariableExpressionEditor+Se rverVariableExpressionEditorSheet+ ServerVariableTypeConverter,BlogEngine.Core.Compilation.Design.ServerVariableExpressionEditor+ServerVariableExpressionEditorSheet+ServerVariableTypeConverter,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Services\Compilation\Design\ServerVariableExpressionEditor.cs,357,19,2,13
-BlogEngine.Core.Compilation.Design .ServerVariableExpressionEditor+Se rverVariableExpressionEditorSheet,BlogEngine.Core.Compilation.Design.ServerVariableExpressionEditor+ServerVariableExpressionEditorSheet,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Services\Compilation\Design\ServerVariableExpressionEditor.cs,357,19,1,12
-BlogEngine.Core.Compilation.Design .QueryStringExpressionEditor,BlogEngine.Core.Compilation.Design.QueryStringExpressionEditor,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Services\Compilation\Design\QueryStringExpressionEditor.cs,13,1,0,6
-BlogEngine.Core.Compilation.Design .CodeExpressionEditor,BlogEngine.Core.Compilation.Design.CodeExpressionEditor,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Services\Compilation\Design\CodeExpressionEditor.cs,13,1,0,6
-BlogEngine.Core.Compilation .CodeExpressionBuilder,BlogEngine.Core.Compilation.CodeExpressionBuilder,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Services\Compilation\CodeExpressionBuilder.cs,13,1,0,10
-BlogEngine.Core.Compilation .BaseServerObjectExpressionBuilder,BlogEngine.Core.Compilation.BaseServerObjectExpressionBuilder,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Services\Compilation\BaseServerObjectExpressionBuilder.cs,151,16,3,22
-BlogEngine.Core.GalleryServer .GalleryFeedContext,BlogEngine.Core.GalleryServer.GalleryFeedContext,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Service References\GalleryServer\Reference.cs,938,156,0,17
-BlogEngine.Core.GalleryServer .PublishedPackage,BlogEngine.Core.GalleryServer.PublishedPackage,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Service References\GalleryServer\Reference.cs,938,156,1,24
-BlogEngine.Core.GalleryServer .PublishedScreenshot,BlogEngine.Core.GalleryServer.PublishedScreenshot,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Service References\GalleryServer\Reference.cs,938,156,2,15
-BlogEngine.Core.Role,BlogEngine.Core.Role,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Role.cs,56,12,1,8
-BlogEngine.Core.RemoteFile,BlogEngine.Core.RemoteFile,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\RemoteFile.cs,310,51,5,28
-BlogEngine.Core.Referrer,BlogEngine.Core.Referrer,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Referrer.cs,443,66,5,29
-BlogEngine.Core.Providers .XmlRoleProvider,BlogEngine.Core.Providers.XmlRoleProvider,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Providers\XmlProvider\XmlRoleProvider.cs,1 276,178,0,54
-BlogEngine.Core.Providers .XmlMembershipProvider,BlogEngine.Core.Providers.XmlMembershipProvider,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Providers\XmlProvider\XmlMembershipProvider.cs,1 545,226,0,61
-BlogEngine.Core.Providers .XmlBlogProvider,BlogEngine.Core.Providers.XmlBlogProvider,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Providers\XmlProvider\Posts.cs,1 210,158,0,105
-BlogEngine.Core.Providers .XmlFileSystemProvider,BlogEngine.Core.Providers.XmlFileSystemProvider,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Providers\FileSystemProviders\XmlFileSystemProvider.cs,620,98,0,41
-BlogEngine.Core.Providers .UNCFileSystemProvider,BlogEngine.Core.Providers.UNCFileSystemProvider,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Providers\FileSystemProviders\UNCFileSystemProvider.cs,763,116,0,44
-BlogEngine.Core.Providers .DbFileSystemProvider,BlogEngine.Core.Providers.DbFileSystemProvider,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Providers\FileSystemProviders\DbFileSystemProvider.cs,1 903,175,0,64
-BlogEngine.Core.Providers .DbFileSystemExtensions,BlogEngine.Core.Providers.DbFileSystemExtensions,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Providers\FileSystemProviders\DbFileSystemProvider.cs,1 903,175,1,18
-BlogEngine.Core.Providers .BlogFileSystemProviderSection,BlogEngine.Core.Providers.BlogFileSystemProviderSection,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Providers\FileSystemProviders\BlogFileSystemProviderSection.cs,29,3,2,8
-BlogEngine.Core.Providers .BlogFileSystemProviderCollection,BlogEngine.Core.Providers.BlogFileSystemProviderCollection,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Providers\FileSystemProviders\BlogFileSystemProviderCollection.cs,43,6,1,12
-BlogEngine.Core.Providers .BlogFileSystemProvider,BlogEngine.Core.Providers.BlogFileSystemProvider,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Providers\FileSystemProviders\BlogFileSystemProvider.cs,4,0,5,12
-BlogEngine.Core.Providers .DbRoleProvider,BlogEngine.Core.Providers.DbRoleProvider,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Providers\DbProvider\DbRoleProvider.cs,1 273,162,0,30
-BlogEngine.Core.Providers .DbMembershipProvider,BlogEngine.Core.Providers.DbMembershipProvider,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Providers\DbProvider\DbMembershipProvider.cs,1 513,193,0,32
-BlogEngine.Core.Providers .DbConnectionHelper,BlogEngine.Core.Providers.DbConnectionHelper,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Providers\DbProvider\DbConnectionHelper.cs,239,41,3,19
-BlogEngine.Core.Providers .DbBlogProvider,BlogEngine.Core.Providers.DbBlogProvider,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Providers\DbProvider\DbBlogProvider.cs,12 049,1 221,0,76
-BlogEngine.Core.Providers .CacheProvider.CacheProvider,BlogEngine.Core.Providers.CacheProvider.CacheProvider,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Providers\CacheProvider\CacheProvider.cs,251,30,20,24
-BlogEngine.Core.Providers .CacheProvider.CacheBase,BlogEngine.Core.Providers.CacheProvider.CacheBase,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Providers\CacheProvider\CacheBase.cs,11,1,20,14
-BlogEngine.Core.Providers .BlogService,BlogEngine.Core.Providers.BlogService,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Providers\BlogService.cs,705,108,34,42
-BlogEngine.Core.Providers .BlogProviderSection,BlogEngine.Core.Providers.BlogProviderSection,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Providers\BlogProviderSection.cs,45,5,4,8
-BlogEngine.Core.Providers .BlogProviderCollection,BlogEngine.Core.Providers.BlogProviderCollection,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Providers\BlogProviderCollection.cs,43,6,2,12
-BlogEngine.Core.Providers .BlogProvider,BlogEngine.Core.Providers.BlogProvider,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Providers\BlogProvider.cs,4,0,8,23
-BlogEngine.Core.Post,BlogEngine.Core.Post,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Post.cs,3 638,461,49,70
-BlogEngine.Core.Page,BlogEngine.Core.Page,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Page.cs,943,124,23,45
-BlogEngine.Core.IPublishable,BlogEngine.Core.IPublishable,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\IPublishable.cs,N/A,N/A,34,10
-BlogEngine.Core.XmlSafeResolver,BlogEngine.Core.XmlSafeResolver,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Helpers\XmlSafeResolver.cs,125,26,1,21
-BlogEngine.Core.Utils,BlogEngine.Core.Utils,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Helpers\Utils.cs,3 297,476,119,153
-BlogEngine.Core.StateList<T>,BlogEngine.Core.StateList<T>,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Helpers\StateCollection.cs,86,11,22,17
-BlogEngine.Core.ServingEventArgs,BlogEngine.Core.ServingEventArgs,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Helpers\ServingEventArgs.cs,53,13,15,9
-BlogEngine.Core.ServingContentBy,BlogEngine.Core.ServingContentBy,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Helpers\ServingEventArgs.cs,53,13,4,5
-BlogEngine.Core.ServingLocation,BlogEngine.Core.ServingLocation,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Helpers\ServingEventArgs.cs,53,13,11,5
-BlogEngine.Core.SavedEventArgs,BlogEngine.Core.SavedEventArgs,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Helpers\SavedEventArgs.cs,16,4,11,6
-BlogEngine.Core.SaveAction,BlogEngine.Core.SaveAction,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Helpers\SavedEventArgs.cs,16,4,26,5
-BlogEngine.Core.Pager,BlogEngine.Core.Pager,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Helpers\Pager.cs,268,54,1,9
-BlogEngine.Core .BlogGeneratorConfig,BlogEngine.Core.BlogGeneratorConfig,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Helpers\BlogGeneratorConfig.cs,339,69,2,27
-BlogEngine.Core.BlogGenerator,BlogEngine.Core.BlogGenerator,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Helpers\BlogGenerator.cs,596,107,4,36
-BlogEngine.Core.Extensions,BlogEngine.Core.Extensions,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Extensions.cs,142,27,15,13
-BlogEngine.Core.Data .WidgetsRepository,BlogEngine.Core.Data.WidgetsRepository,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\WidgetsRepository.cs,191,38,1,30
-BlogEngine.Core.Data.ViewModels .WidgetsVM,BlogEngine.Core.Data.ViewModels.WidgetsVM,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\ViewModels\WidgetsVM.cs,458,87,3,33
-BlogEngine.Core.Data.ViewModels .WidgetZone,BlogEngine.Core.Data.ViewModels.WidgetZone,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\ViewModels\WidgetsVM.cs,458,87,4,7
-BlogEngine.Core.Data.ViewModels .WidgetItem,BlogEngine.Core.Data.ViewModels.WidgetItem,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\ViewModels\WidgetsVM.cs,458,87,3,6
-BlogEngine.Core.Data.ViewModels .SettingsVM,BlogEngine.Core.Data.ViewModels.SettingsVM,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\ViewModels\SettingsVM.cs,1 981,175,3,14
-BlogEngine.Core.Data.ViewModels .DashboardVM,BlogEngine.Core.Data.ViewModels.DashboardVM,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\ViewModels\DashboardVM.cs,840,128,3,44
-BlogEngine.Core.Data.ViewModels .CommentsVM,BlogEngine.Core.Data.ViewModels.CommentsVM,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\ViewModels\CommentsVM.cs,25,6,3,7
-BlogEngine.Core.Data.ViewModels .BlogRollVM,BlogEngine.Core.Data.ViewModels.BlogRollVM,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\ViewModels\BlogRollVM.cs,532,91,4,29
-BlogEngine.Core.Data .UsersRepository,BlogEngine.Core.Data.UsersRepository,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\UsersRepository.cs,1 259,174,1,49
-BlogEngine.Core.Data .TrashRepository,BlogEngine.Core.Data.TrashRepository,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\TrashRepository.cs,910,145,1,44
-BlogEngine.Core.Data.TagRepository,BlogEngine.Core.Data.TagRepository,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\TagRepository.cs,366,59,1,31
-BlogEngine.Core.Data .StatsRepository,BlogEngine.Core.Data.StatsRepository,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\StatsRepository.cs,357,46,1,30
-BlogEngine.Core.Data .SettingsRepository,BlogEngine.Core.Data.SettingsRepository,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\SettingsRepository.cs,889,177,1,14
-BlogEngine.Core.Data.Services .Updater,BlogEngine.Core.Data.Services.Updater,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\Services\Updater.cs,334,56,1,23
-BlogEngine.Core.Data.Services .TagCloud,BlogEngine.Core.Data.Services.TagCloud,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\Services\TagCloud.cs,438,59,0,30
-BlogEngine.Core.Data.Services.Json,BlogEngine.Core.Data.Services.Json,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\Services\Json.cs,1 042,93,4,40
-BlogEngine.Core.Data.Services .CustomFieldsParser,BlogEngine.Core.Data.Services.CustomFieldsParser,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\Services\CustomFieldsParser.cs,691,100,5,40
-BlogEngine.Core.Data.Services .Avatar,BlogEngine.Core.Data.Services.Avatar,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\Services\Avatar.cs,269,44,2,16
-BlogEngine.Core.Data .RolesRepository,BlogEngine.Core.Data.RolesRepository,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\RolesRepository.cs,691,117,1,40
-BlogEngine.Core.Data .PostRepository,BlogEngine.Core.Data.PostRepository,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\PostRepository.cs,713,118,1,42
-BlogEngine.Core.Data .PageRepository,BlogEngine.Core.Data.PageRepository,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\PageRepository.cs,527,88,1,37
-BlogEngine.Core.Data .PackageRepository,BlogEngine.Core.Data.PackageRepository,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\PackageRepository.cs,644,98,2,44
-BlogEngine.Core.Data.Models .TrashVM,BlogEngine.Core.Data.Models.TrashVM,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\Models\TrashVM.cs,25,6,3,7
-BlogEngine.Core.Data.Models .TrashItem,BlogEngine.Core.Data.Models.TrashItem,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\Models\TrashItem.cs,46,12,4,7
-BlogEngine.Core.Data.Models .TagItem,BlogEngine.Core.Data.Models.TagItem,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\Models\TagItem.cs,25,6,7,7
-BlogEngine.Core.Data.Models.Stats,BlogEngine.Core.Data.Models.Stats,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\Models\Stats.cs,81,22,3,6
-BlogEngine.Core.Data.Models .Settings,BlogEngine.Core.Data.Models.Settings,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\Models\Settings.cs,572,163,4,8
-BlogEngine.Core.Data.Models .SelectOption,BlogEngine.Core.Data.Models.SelectOption,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\Models\SelectOption.cs,32,8,12,6
-BlogEngine.Core.Data.Models .RoleItem,BlogEngine.Core.Data.Models.RoleItem,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\Models\Security.cs,89,21,5,6
-BlogEngine.Core.Data.Models .Permission,BlogEngine.Core.Data.Models.Permission,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\Models\Security.cs,89,21,2,6
-BlogEngine.Core.Data.Models.Group,BlogEngine.Core.Data.Models.Group,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\Models\Security.cs,89,21,3,8
-BlogEngine.Core.Data.Models .Profile,BlogEngine.Core.Data.Models.Profile,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\Models\Profile.cs,109,30,3,6
-BlogEngine.Core.Data.Models .PostItem,BlogEngine.Core.Data.Models.PostItem,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\Models\PostItem.cs,81,22,5,10
-BlogEngine.Core.Data.Models .PostDetail,BlogEngine.Core.Data.Models.PostDetail,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\Models\PostDetail.cs,123,34,4,10
-BlogEngine.Core.Data.Models .PageItem,BlogEngine.Core.Data.Models.PageItem,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\Models\PageItem.cs,88,24,5,9
-BlogEngine.Core.Data.Models .PageDetail,BlogEngine.Core.Data.Models.PageDetail,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\Models\PageDetail.cs,130,36,4,9
-BlogEngine.Core.Data.Models .Package,BlogEngine.Core.Data.Models.Package,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\Models\Package.cs,170,43,7,9
-BlogEngine.Core.Data.Models .Lookups,BlogEngine.Core.Data.Models.Lookups,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\Models\Lookups.cs,60,16,3,7
-BlogEngine.Core.Data.Models .JsonResponse,BlogEngine.Core.Data.Models.JsonResponse,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\Models\JsonResponse.cs,50,12,4,6
-BlogEngine.Core.Data.Models .JsonResponse<T>,BlogEngine.Core.Data.Models.JsonResponse<T>,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\Models\JsonResponse.cs,50,12,0,6
-BlogEngine.Core.Data.Models .TrashType,BlogEngine.Core.Data.Models.TrashType,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\Models\Enums.cs,N/A,N/A,3,5
-BlogEngine.Core.Data.Models .CommentType,BlogEngine.Core.Data.Models.CommentType,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\Models\Enums.cs,N/A,N/A,0,5
-BlogEngine.Core.Data.Models .PostType,BlogEngine.Core.Data.Models.PostType,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\Models\Enums.cs,N/A,N/A,0,5
-BlogEngine.Core.Data.Models .EditorOptions,BlogEngine.Core.Data.Models.EditorOptions,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\Models\EditorOptions.cs,32,8,4,6
-BlogEngine.Core.Data.Models .CustomFilter,BlogEngine.Core.Data.Models.CustomFilter,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\Models\CustomFilter.cs,106,22,2,9
-BlogEngine.Core.Data.Models .CustomField,BlogEngine.Core.Data.Models.CustomField,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\Models\CustomField.cs,54,13,12,7
-BlogEngine.Core.Data.Models .CommentItem,BlogEngine.Core.Data.Models.CommentItem,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\Models\CommentItem.cs,88,24,6,7
-BlogEngine.Core.Data.Models .CommentFilterItem,BlogEngine.Core.Data.Models.CommentFilterItem,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\Models\CommentFilterItem.cs,46,12,3,7
-BlogEngine.Core.Data.Models .CommentDetail,BlogEngine.Core.Data.Models.CommentDetail,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\Models\CommentDetail.cs,53,14,5,6
-BlogEngine.Core.Data.Models .CategoryItem,BlogEngine.Core.Data.Models.CategoryItem,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\Models\CategoryItem.cs,46,12,7,9
-BlogEngine.Core.Data.Models .BlogUser,BlogEngine.Core.Data.Models.BlogUser,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\Models\BlogUser.cs,53,14,3,9
-BlogEngine.Core.Data.Models .BlogItem,BlogEngine.Core.Data.Models.BlogItem,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\Models\BlogItem.cs,39,10,3,5
-BlogEngine.Core.Data.Models.Blog,BlogEngine.Core.Data.Models.Blog,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\Models\Blog.cs,109,30,4,8
-BlogEngine.Core.Data .LookupsRepository,BlogEngine.Core.Data.LookupsRepository,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\LookupsRepository.cs,633,97,1,48
-BlogEngine.Core.Data .FileManagerRepository,BlogEngine.Core.Data.FileManagerRepository,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\FileManagerRepository.cs,214,27,1,25
-BlogEngine.Core.Data .DashboardRepository,BlogEngine.Core.Data.DashboardRepository,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\DashboardRepository.cs,19,3,1,8
-BlogEngine.Core.Data .CustomFilterRepository,BlogEngine.Core.Data.CustomFilterRepository,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\CustomFilterRepository.cs,242,31,0,28
-BlogEngine.Core.Data .CustomFieldRepository,BlogEngine.Core.Data.CustomFieldRepository,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\CustomFieldRepository.cs,317,52,1,29
-BlogEngine.Core.Data.Contracts .IWidgetsRepository,BlogEngine.Core.Data.Contracts.IWidgetsRepository,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\Contracts\IWidgetsRepository.cs,N/A,N/A,3,4
-BlogEngine.Core.Data.Contracts .IUsersRepository,BlogEngine.Core.Data.Contracts.IUsersRepository,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\Contracts\IUsersRepository.cs,N/A,N/A,3,5
-BlogEngine.Core.Data.Contracts .ITrashRepository,BlogEngine.Core.Data.Contracts.ITrashRepository,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\Contracts\ITrashRepository.cs,N/A,N/A,3,7
-BlogEngine.Core.Data.Contracts .ITagRepository,BlogEngine.Core.Data.Contracts.ITagRepository,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\Contracts\ITagRepository.cs,N/A,N/A,3,5
-BlogEngine.Core.Data.Contracts .IStatsRepository,BlogEngine.Core.Data.Contracts.IStatsRepository,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\Contracts\IStatsRepository.cs,N/A,N/A,3,1
-BlogEngine.Core.Data.Contracts .ISettingsRepository,BlogEngine.Core.Data.Contracts.ISettingsRepository,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\Contracts\ISettingsRepository.cs,N/A,N/A,3,3
-BlogEngine.Core.Data.Contracts .IRolesRepository,BlogEngine.Core.Data.Contracts.IRolesRepository,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\Contracts\IRolesRepository.cs,N/A,N/A,3,7
-BlogEngine.Core.Data.Contracts .IPostRepository,BlogEngine.Core.Data.Contracts.IPostRepository,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\Contracts\IPostRepository.cs,N/A,N/A,3,7
-BlogEngine.Core.Data.Contracts .IPageRepository,BlogEngine.Core.Data.Contracts.IPageRepository,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\Contracts\IPageRepository.cs,N/A,N/A,3,7
-BlogEngine.Core.Data.Contracts .IPackageRepository,BlogEngine.Core.Data.Contracts.IPackageRepository,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\Contracts\IPackageRepository.cs,N/A,N/A,3,5
-BlogEngine.Core.Data.Contracts .ILookupsRepository,BlogEngine.Core.Data.Contracts.ILookupsRepository,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\Contracts\ILookupsRepository.cs,N/A,N/A,3,3
-BlogEngine.Core.Data.Contracts .IFileManagerRepository,BlogEngine.Core.Data.Contracts.IFileManagerRepository,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\Contracts\IFileManagerRepository.cs,N/A,N/A,3,4
-BlogEngine.Core.Data.Contracts .IDashboardRepository,BlogEngine.Core.Data.Contracts.IDashboardRepository,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\Contracts\IDashboardRepository.cs,N/A,N/A,3,1
-BlogEngine.Core.Data.Contracts .ICustomFilterRepository,BlogEngine.Core.Data.Contracts.ICustomFilterRepository,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\Contracts\ICustomFilterRepository.cs,N/A,N/A,1,4
-BlogEngine.Core.Data.Contracts .ICustomFieldRepository,BlogEngine.Core.Data.Contracts.ICustomFieldRepository,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\Contracts\ICustomFieldRepository.cs,N/A,N/A,3,5
-BlogEngine.Core.Data.Contracts .ICommentsRepository,BlogEngine.Core.Data.Contracts.ICommentsRepository,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\Contracts\ICommentsRepository.cs,N/A,N/A,3,6
-BlogEngine.Core.Data.Contracts .ICommentFilterRepository,BlogEngine.Core.Data.Contracts.ICommentFilterRepository,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\Contracts\ICommentFilterRepository.cs,N/A,N/A,3,6
-BlogEngine.Core.Data.Contracts .ICategoryRepository,BlogEngine.Core.Data.Contracts.ICategoryRepository,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\Contracts\ICategoryRepository.cs,N/A,N/A,3,6
-BlogEngine.Core.Data.Contracts .IBlogRepository,BlogEngine.Core.Data.Contracts.IBlogRepository,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\Contracts\IBlogRepository.cs,N/A,N/A,3,7
-BlogEngine.Core.Data .CommentsRepository,BlogEngine.Core.Data.CommentsRepository,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\CommentsRepository.cs,860,140,1,41
-BlogEngine.Core.Data .CommentFilterRepository,BlogEngine.Core.Data.CommentFilterRepository,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\CommentFilterRepository.cs,538,87,1,35
-BlogEngine.Core.Data .CategoryRepository,BlogEngine.Core.Data.CategoryRepository,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\CategoryRepository.cs,1 013,123,2,34
-BlogEngine.Core.Data .BlogRepository,BlogEngine.Core.Data.BlogRepository,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\BlogRepository.cs,430,58,1,33
-BlogEngine.Core.Comment,BlogEngine.Core.Comment,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Comment.cs,700,67,32,25
-BlogEngine.Core.Category,BlogEngine.Core.Category,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Category.cs,587,82,27,34
-"BlogEngine.Core.BusinessBase<T ,TKey>","BlogEngine.Core.BusinessBase<T,TKey>",C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\BusinessBase.cs,815,111,87,43
-BlogEngine.Core .BlogSettings+Moderation,BlogEngine.Core.BlogSettings+Moderation,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\BlogSettings.cs,1 513,314,1,5
-BlogEngine.Core .BlogSettings+CommentsBy,BlogEngine.Core.BlogSettings+CommentsBy,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\BlogSettings.cs,1 513,314,7,5
-BlogEngine.Core.BlogSettings,BlogEngine.Core.BlogSettings,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\BlogSettings.cs,1 513,314,65,61
-BlogEngine.Core.BlogRollItem,BlogEngine.Core.BlogRollItem,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\BlogRollItem.cs,91,24,9,8
-BlogEngine.Core.BlogConfig,BlogEngine.Core.BlogConfig,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\BlogConfig.cs,339,29,38,10
-BlogEngine.Core.Blog,BlogEngine.Core.Blog,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Blog.cs,1 764,279,80,48
-BlogEngine.Core.AuthorProfile,BlogEngine.Core.AuthorProfile,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\AuthorProfile.cs,851,111,12,36
-BlogEngine.Core.API.MetaWeblog .XMLRPCResponse,BlogEngine.Core.API.MetaWeblog.XMLRPCResponse,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\API\MetaWeblog\XMLRPCResponse.cs,2 638,571,1,27
-BlogEngine.Core.API.MetaWeblog .XMLRPCRequest,BlogEngine.Core.API.MetaWeblog.XMLRPCRequest,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\API\MetaWeblog\XMLRPCRequest.cs,1 429,192,1,42
-BlogEngine.Core.API.MetaWeblog .MetaWeblogHandler,BlogEngine.Core.API.MetaWeblog.MetaWeblogHandler,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\API\MetaWeblog\MetaWeblogHandler.cs,2 249,301,0,66
-BlogEngine.Core.API.MetaWeblog .MetaWeblogException,BlogEngine.Core.API.MetaWeblog.MetaWeblogException,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\API\MetaWeblog\MetaWeblogException.cs,17,4,2,6
-BlogEngine.Core.API.MetaWeblog .MWAUserInfo,BlogEngine.Core.API.MetaWeblog.MWAUserInfo,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\API\MetaWeblog\MWAUserInfo.cs,0,0,0,3
-BlogEngine.Core.API.MetaWeblog .MWAPost,BlogEngine.Core.API.MetaWeblog.MWAPost,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\API\MetaWeblog\MWAPost.cs,0,0,3,6
-BlogEngine.Core.API.MetaWeblog .MWAPage,BlogEngine.Core.API.MetaWeblog.MWAPage,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\API\MetaWeblog\MWAPage.cs,0,0,3,4
-BlogEngine.Core.API.MetaWeblog .MWAMediaObject,BlogEngine.Core.API.MetaWeblog.MWAMediaObject,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\API\MetaWeblog\MWAMediaObject.cs,0,0,2,4
-BlogEngine.Core.API.MetaWeblog .MWAMediaInfo,BlogEngine.Core.API.MetaWeblog.MWAMediaInfo,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\API\MetaWeblog\MWAMediaInfo.cs,0,0,2,3
-BlogEngine.Core.API.MetaWeblog .MWAFault,BlogEngine.Core.API.MetaWeblog.MWAFault,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\API\MetaWeblog\MWAFault.cs,0,0,2,3
-BlogEngine.Core.API.MetaWeblog .MWACategory,BlogEngine.Core.API.MetaWeblog.MWACategory,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\API\MetaWeblog\MWACategory.cs,0,0,2,3
-BlogEngine.Core.API.MetaWeblog .MWABlogInfo,BlogEngine.Core.API.MetaWeblog.MWABlogInfo,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\API\MetaWeblog\MWABlogInfo.cs,0,0,2,3
-BlogEngine.Core.API.MetaWeblog .MWAAuthor,BlogEngine.Core.API.MetaWeblog.MWAAuthor,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\API\MetaWeblog\MWAAuthor.cs,0,0,2,3
+FullName,FilePathString,NbLines,NbTypesUsingMe,NbTypesUsed
+BlogEngine.Core.Data.Contracts.IDashboardRepository,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\Contracts\IDashboardRepository.cs,17,3,1
+BlogEngine.Core.Data.Contracts.IStatsRepository,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\Contracts\IStatsRepository.cs,17,3,1
+BlogEngine.Core.Packaging.Constants,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Services\Packaging\Constants.cs,46,0,3
+BlogEngine.Core.API.MetaWeblog.MWAUserInfo,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\API\MetaWeblog\MWAUserInfo.cs,42,0,3
+BlogEngine.Core.API.MetaWeblog.MWAAuthor,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\API\MetaWeblog\MWAAuthor.cs,37,2,3
+BlogEngine.Core.API.MetaWeblog.MWABlogInfo,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\API\MetaWeblog\MWABlogInfo.cs,28,2,3
+BlogEngine.Core.API.MetaWeblog.MWACategory,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\API\MetaWeblog\MWACategory.cs,38,2,3
+BlogEngine.Core.API.MetaWeblog.MWAFault,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\API\MetaWeblog\MWAFault.cs,23,2,3
+BlogEngine.Core.API.MetaWeblog.MWAMediaInfo,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\API\MetaWeblog\MWAMediaInfo.cs,18,2,3
+BlogEngine.Core.ICustomFilter,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Services\Messaging\Protection\ICustomFilter.cs,51,3,3
+BlogEngine.Core.Data.Contracts.ILookupsRepository,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\Contracts\ILookupsRepository.cs,23,3,3
+BlogEngine.Core.Data.Contracts.ISettingsRepository,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\Contracts\ISettingsRepository.cs,24,3,3
+BlogEngine.Core.Entry,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Services\Search\Search.cs,728,1,4
+BlogEngine.Core.Data.Contracts.ICustomFilterRepository,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\Contracts\ICustomFilterRepository.cs,23,1,4
+BlogEngine.NET.Custom.Widgets.MonthList+IntComparer_Desc,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\Custom\Widgets\MonthList\MonthList.cs,59,1,4
+BlogEngine.Core.API.MetaWeblog.MWAMediaObject,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\API\MetaWeblog\MWAMediaObject.cs,28,2,4
+BlogEngine.Core.API.MetaWeblog.MWAPage,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\API\MetaWeblog\MWAPage.cs,54,3,4
+BlogEngine.Core.Data.Contracts.IWidgetsRepository,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\Contracts\IWidgetsRepository.cs,24,3,4
+BlogEngine.Core.Data.Contracts.IFileManagerRepository,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\Contracts\IFileManagerRepository.cs,11,3,4
+BlogEngine.Core.DataStore.ISettingsBehavior,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Web\Extensions\DataStore\Interfaces.cs,66,9,4
+BlogEngine.Core.Data.Models.PostType,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\Models\Enums.cs,71,0,5
+BlogEngine.Core.Data.Models.CommentType,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\Models\Enums.cs,71,0,5
+BlogEngine.Core.BlogSettings+Moderation,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\BlogSettings.cs,1433,1,5
+BlogEngine.Core.FileSystem.Image+ModificationType,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Services\FileSystem\Image.cs,339,1,5
+BlogEngine.Core.Web.Scripting.VariableMinification,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Web\Scripting\JavascriptMinifier.cs,171,1,5
+BlogEngine.Core.Web.Controls.RelatedPost,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Web\Controls\RelatedPostsBase.cs,127,1,5
+TagToUpdate,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\AppCode\Api\TagsController.cs,63,1,5
+MediaElementPlayer+ShortCode,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\Custom\Extensions\MediaElementPlayer.cs,304,1,5
+App_Code.Controls.MonthList+DateComparer_Asc,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\AppCode\Controls\MonthList.cs,381,1,5
+App_Code.Controls.MonthList+DateComparer_Desc,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\AppCode\Controls\MonthList.cs,381,1,5
+BlogEngine.NET.Custom.Widgets.LinkItem,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\Custom\Widgets\LinkList\LinkList.cs,147,1,5
+BlogEngine.NET.Custom.Widgets.MonthList+DateComparer_Desc,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\Custom\Widgets\MonthList\MonthList.cs,59,1,5
+PackageExtra+PackageType,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Services\Packaging\GalleryData.cs,47,2,5
+BlogEngine.Core.RightCategory,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Services\Security\Rights.cs,388,2,5
+BlogEngine.Core.Web.BlogCulture+ResourceType,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Web\BlogCulture.cs,902,2,5
+Joel.Net.AkismetComment,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\Custom\Extensions\AkismetFilter.cs,606,2,5
+BlogEngine.Core.FileSystem.FileType,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Services\FileSystem\Common.cs,77,3,5
+BlogEngine.Core.Data.Models.BlogItem,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\Models\BlogItem.cs,28,3,5
+BlogEngine.Core.Data.Models.TrashType,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\Models\Enums.cs,71,3,5
+BlogEngine.Core.Data.Contracts.ICustomFieldRepository,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\Contracts\ICustomFieldRepository.cs,53,3,5
+BlogEngine.Core.Data.Contracts.IUsersRepository,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\Contracts\IUsersRepository.cs,51,3,5
+BlogEngine.Core.Data.Contracts.IPackageRepository,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\Contracts\IPackageRepository.cs,46,3,5
+BlogEngine.Core.Data.Contracts.ITagRepository,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\Contracts\ITagRepository.cs,34,3,5
+BlogEngine.Core.ServingContentBy,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Helpers\ServingEventArgs.cs,159,4,5
+BlogEngine.Core.AuthorizationCheck,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Services\Security\Security.cs,518,6,5
+BlogEngine.Core.Packaging.InstalledPackage,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Services\Packaging\InstalledPackage.cs,18,6,5
+BlogEngine.Core.BlogSettings+CommentsBy,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\BlogSettings.cs,1433,7,5
+BlogEngine.Core.ServingLocation,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Helpers\ServingEventArgs.cs,159,11,5
+BlogEngine.Core.DataStore.ExtensionType,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Web\Extensions\DataStore\Interfaces.cs,66,11,5
+BlogEngine.Core.SaveAction,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Helpers\SavedEventArgs.cs,60,26,5
+BlogEngine.Core.Compilation.Design.CodeExpressionEditor,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Services\Compilation\Design\CodeExpressionEditor.cs,45,0,6
+BlogEngine.Core.Compilation.Design.QueryStringExpressionEditor,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Services\Compilation\Design\QueryStringExpressionEditor.cs,45,0,6
+BlogEngine.Core.Compilation.Design.SessionExpressionEditor,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Services\Compilation\Design\SessionExpressionEditor.cs,45,0,6
+BlogEngine.Core.Data.Models.JsonResponse<T>,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\Models\JsonResponse.cs,53,0,6
+DashboardController,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\AppCode\Api\DashboardController.cs,18,0,6
+SetupController,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\AppCode\Api\SetupController.cs,11,0,6
+PagerController,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\AppCode\Api\PagerController.cs,10,0,6
+StatsController,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\AppCode\Api\StatsController.cs,19,0,6
+BlogEngine.Core.Result,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Services\Search\Search.cs,728,1,6
+PingItem,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\AppCode\Api\PingServicesController.cs,63,1,6
+App_Code.Controls.MonthList+MonthListDisplayOptions,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\AppCode\Controls\MonthList.cs,381,1,6
+BlogEngine.NET.Custom.Widgets.MonthItem,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\Custom\Widgets\MonthList\MonthList.cs,59,1,6
+BlogEngine.Core.API.MetaWeblog.MetaWeblogException,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\API\MetaWeblog\MetaWeblogException.cs,43,2,6
+BlogEngine.Core.API.BlogML.BaseReader,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Services\Syndication\BlogML\BaseReader.cs,73,2,6
+BlogEngine.Core.Data.Models.Permission,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\Models\Security.cs,71,2,6
+BlogEngine.Core.DataStore.WidgetData,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Web\Extensions\DataStore\XMLDocumentBehavior.cs,144,3,6
+BlogEngine.Core.API.MetaWeblog.MWAPost,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\API\MetaWeblog\MWAPost.cs,77,3,6
+BlogEngine.Core.Data.Models.Profile,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\Models\Profile.cs,70,3,6
+BlogEngine.Core.Data.Models.Stats,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\Models\Stats.cs,28,3,6
+BlogEngine.Core.Data.ViewModels.WidgetItem,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\ViewModels\WidgetsVM.cs,176,3,6
+BlogEngine.Core.Data.Contracts.ICommentFilterRepository,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\Contracts\ICommentFilterRepository.cs,52,3,6
+BlogEngine.Core.Data.Contracts.ICategoryRepository,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\Contracts\ICategoryRepository.cs,46,3,6
+BlogEngine.Core.Data.Contracts.ICommentsRepository,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\Contracts\ICommentsRepository.cs,50,3,6
+BlogEngine.Core.Data.Models.EditorOptions,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\Models\EditorOptions.cs,26,4,6
+BlogEngine.Core.Data.Models.JsonResponse,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\Models\JsonResponse.cs,53,4,6
+BlogEngine.Core.Data.Models.CommentDetail,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\Models\CommentDetail.cs,40,5,6
+BlogEngine.Core.Data.Models.RoleItem,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\Models\Security.cs,71,5,6
+BlogEngine.Core.Web.Extensions.ParameterType,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Web\Extensions\ExtensionParameter.cs,260,9,6
+BlogEngine.Core.SavedEventArgs,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Helpers\SavedEventArgs.cs,60,11,6
+BlogEngine.Core.Data.Models.SelectOption,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\Models\SelectOption.cs,26,12,6
+BlogEngine.Core.Web.Controls.ExtensionAttribute,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Web\Controls\ExtensionAttribute.cs,192,15,6
+BlogEngine.Core.Rights,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Services\Security\Rights.cs,388,41,6
+BlogEngine.Core.Packaging.Pager,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Services\Packaging\Pager.cs,90,0,7
+App_Code.Controls.MobileThemeSwitch,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\AppCode\Controls\MobileThemeSwitch.cs,19,0,7
+Account.ChangePasswordSuccess,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\Account\change-password-success.aspx.cs,11,0,7
+BlogEngine.Core.CustomPrincipal,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Services\Security\CustomPrincipal.cs,48,1,7
+BlogEngine.Core.DataStore.ExtensionSettings,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Web\Extensions\DataStore\ExtensionSettings.cs,23,1,7
+BlogEngine.Core.DataStore.ExtensionSettingsBehavior,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Web\Extensions\DataStore\ExtensionSettingsBehavior.cs,57,1,7
+BlogEngine.Core.Packaging.PagerItem,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Services\Packaging\Pager.cs,90,1,7
+BlogEngine.Core.Web.HttpHandlers.Apml+Concept,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Web\HttpHandlers\Apml.cs,351,1,7
+BlogEngine.Core.Web.Controls.SortedExtension,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Web\Controls\ExtensionAttribute.cs,192,1,7
+BlogEngine.Core.RightDetailsAttribute,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Services\Security\Rights.cs,388,2,7
+Recaptcha.RecaptchaResponse,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\Custom\Extensions\Recaptcha\RecaptchaResponse.cs,123,2,7
+Review,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Services\Packaging\GalleryData.cs,47,3,7
+BlogEngine.Core.Data.Models.CommentFilterItem,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\Models\CommentFilterItem.cs,38,3,7
+BlogEngine.Core.Data.Models.Lookups,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\Models\Lookups.cs,39,3,7
+BlogEngine.Core.Data.Models.TrashVM,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\Models\TrashVM.cs,21,3,7
+BlogEngine.Core.Data.ViewModels.CommentsVM,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\ViewModels\CommentsVM.cs,16,3,7
+BlogEngine.Core.Data.Contracts.IRolesRepository,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\Contracts\IRolesRepository.cs,58,3,7
+BlogEngine.Core.Data.Contracts.IBlogRepository,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\Contracts\IBlogRepository.cs,47,3,7
+BlogEngine.Core.Data.Contracts.IPageRepository,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\Contracts\IPageRepository.cs,47,3,7
+BlogEngine.Core.Data.Contracts.IPostRepository,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\Contracts\IPostRepository.cs,46,3,7
+BlogEngine.Core.Data.Contracts.ITrashRepository,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\Contracts\ITrashRepository.cs,48,3,7
+BlogEngine.Core.Data.Models.TrashItem,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\Models\TrashItem.cs,40,4,7
+BlogEngine.Core.Data.ViewModels.WidgetZone,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\ViewModels\WidgetsVM.cs,176,4,7
+BlogEngine.Core.DataStore.WidgetSettings,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Web\Extensions\DataStore\WidgetSettings.cs,25,5,7
+BlogEngine.Core.Packaging.PackageFile,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Services\Packaging\PackageFile.cs,27,6,7
+BlogEngine.Core.Data.Models.CommentItem,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\Models\CommentItem.cs,60,6,7
+BlogEngine.Core.Data.Models.TagItem,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\Models\TagItem.cs,22,7,7
+BlogEngine.Core.Data.Models.CustomField,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\Models\CustomField.cs,45,12,7
+BlogEngine.Core.FileSystem.FileResponse,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Services\FileSystem\Common.cs,77,0,8
+BlogEngine.Core.CustomIdentity,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Services\Security\CustomIdentity.cs,74,1,8
+BlogEngine.Core.Role,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Role.cs,76,1,8
+BlogEngine.Core.Web.Extensions.GenericHelper<T>,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Web\Extensions\ManagedExtension.cs,337,1,8
+BlogEngine.Core.Data.DashboardRepository,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\DashboardRepository.cs,24,1,8
+BlogEngine.NET.AppCode.Api.UnauthorizedAccessExceptionFilterAttribute,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\AppCode\Api\UnauthorizedAccessExceptionFilterAttribute.cs,18,1,8
+BlogEngine.Core.Providers.BlogFileSystemProviderSection,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Providers\FileSystemProviders\BlogFileSystemProviderSection.cs,45,2,8
+BlogEngine.Core.Data.Models.Group,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\Models\Security.cs,71,3,8
+BlogEngine.Core.FileSystem.FileInstance,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Services\FileSystem\Common.cs,77,4,8
+BlogEngine.Core.Providers.BlogProviderSection,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Providers\BlogProviderSection.cs,69,4,8
+BlogEngine.Core.Data.Models.Blog,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\Models\Blog.cs,87,4,8
+BlogEngine.Core.Data.Models.Settings,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\Models\Settings.cs,181,4,8
+BlogEngine.Core.DataStore.SettingsBase,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Web\Extensions\DataStore\SettingsBase.cs,69,8,8
+BlogEngine.Core.BlogRollItem,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\BlogRollItem.cs,84,9,8
+BlogEngine.Core.Compilation.SessionExpressionBuilder,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Services\Compilation\SessionExpressionBuilder.cs,68,0,9
+BlogEngine.NET.FrontPage,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\FrontPageExample.aspx.cs,13,0,9
+BlogEngine.Core.Pager,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Helpers\Pager.cs,122,1,9
+BlogEngine.Core.Web.Controls.CommentFormBase,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Web\Controls\CommentFormBase.cs,16,1,9
+BlogEngine.Core.Compilation.Design.ServerVariableExpressionEditor,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Services\Compilation\Design\ServerVariableExpressionEditor.cs,354,1,9
+BlogEngine.Core.Data.Models.CustomFilter,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\Models\CustomFilter.cs,60,2,9
+BlogEngine.Core.Data.Models.BlogUser,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\Models\BlogUser.cs,40,3,9
+BlogEngine.Core.Data.Models.PageDetail,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\Models\PageDetail.cs,84,4,9
+BlogEngine.Core.Data.Models.PageItem,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\Models\PageItem.cs,60,5,9
+BlogEngine.Core.Data.Models.CategoryItem,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\Models\CategoryItem.cs,36,7,9
+BlogEngine.Core.Data.Models.Package,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\Models\Package.cs,107,7,9
+BlogEngine.Core.ServingEventArgs,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Helpers\ServingEventArgs.cs,159,15,9
+BlogEngine.Core.Compilation.CodeExpressionBuilder,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Services\Compilation\CodeExpressionBuilder.cs,55,0,10
+BlogEngine.Core.Compilation.QueryStringExpressionBuilder,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Services\Compilation\QueryStringExpressionBuilder.cs,68,0,10
+BlogEngine.Core.Compilation.ServerVariableExpressionBuilder,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Services\Compilation\ServerVariableExpressionBuilder.cs,68,0,10
+App_Code.Controls.PageMenu,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\AppCode\Controls\PageMenu.cs,33,0,10
+BlogEngine.NET.Custom.Widgets.Common,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\Custom\Widgets\Common.cs,40,1,10
+BlogEngine.Core.API.BlogML.BlogMlExtendedPost,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Services\Syndication\BlogML\BlogMLExtendedPost.cs,37,2,10
+Recaptcha.RecaptchaLogItem,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\Custom\Extensions\Recaptcha\RecaptchaLogItem.cs,102,2,10
+App_Code.WebUtils,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\AppCode\WebUtils.cs,148,2,10
+BlogEngine.Core.Data.Models.PostDetail,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\Models\PostDetail.cs,81,4,10
+BlogEngine.Core.Data.Models.PostItem,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\Models\PostItem.cs,57,5,10
+BlogEngine.Core.IPublishable,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\IPublishable.cs,124,34,10
+BlogEngine.Core.BlogConfig,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\BlogConfig.cs,316,38,10
+Smilies,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\Custom\Extensions\Smilies.cs,86,0,11
+BlogEngine.Core.Web.HttpHandlers.FoafPerson,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Web\HttpHandlers\Foaf.cs,560,1,11
+BlogEngine.Core.Web.Extensions.ExtensionParameter,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Web\Extensions\ExtensionParameter.cs,260,7,11
+Resources.labels,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\App_GlobalResources\labels.designer.cs,7473,22,11
+SendNewsletters,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\Custom\Extensions\SendNewsletters.cs,29,0,12
+BlogEngine.Core.Web.Scripting.JavascriptMinifier,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Web\Scripting\JavascriptMinifier.cs,171,1,12
+BlogEngine.Core.Providers.BlogFileSystemProviderCollection,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Providers\FileSystemProviders\BlogFileSystemProviderCollection.cs,53,1,12
+BlogEngine.Core.Compilation.Design.ServerVariableExpressionEditor+ServerVariableExpressionEditorSheet,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Services\Compilation\Design\ServerVariableExpressionEditor.cs,354,1,12
+BlogEngine.NET.AppCode.Api.UnhandledExceptionLogger,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\AppCode\Api\UnhandledExceptionLogger.cs,16,1,12
+BlogEngine.Core.Ping.TrackbackMessage,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Services\Messaging\Ping\TrackbackMessage.cs,96,2,12
+BlogEngine.Core.Providers.BlogProviderCollection,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Providers\BlogProviderCollection.cs,52,2,12
+BlogEngine.Core.Providers.BlogFileSystemProvider,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Providers\FileSystemProviders\BlogFileSystemProvider.cs,152,5,12
+BlogEngine.Core.FileSystem.FileStoreDb,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Services\FileSystem\FileStoreDb.cs,846,1,13
+BlogEngine.Core.Web.Controls.PostNavigationBase,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Web\Controls\PostNavigationBase.cs,118,1,13
+BlogEngine.Core.Compilation.Design.ServerVariableExpressionEditor+ServerVariableExpressionEditorSheet+ServerVariableTypeConverter,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Services\Compilation\Design\ServerVariableExpressionEditor.cs,354,2,13
+BlogEngine.Core.Extensions,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Extensions.cs,119,15,13
+Recaptcha.Recaptcha,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\Custom\Extensions\Recaptcha\Recaptcha.cs,189,0,14
+App_Code.Controls.SimpleCaptcha,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\Custom\Extensions\SimpleCaptcha\SimpleCaptcha.cs,113,0,14
+BlogEngine.Core.Web.Controls.RewriteFormHtmlTextWriter,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Web\Controls\RewriteFormHtmlTextWriter.cs,88,1,14
+BlogEngine.Core.Data.SettingsRepository,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\SettingsRepository.cs,258,1,14
+BlogEngine.Core.Data.ViewModels.SettingsVM,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\ViewModels\SettingsVM.cs,247,3,14
+PackageExtra,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Services\Packaging\GalleryData.cs,47,4,14
+BlogEngine.Core.Providers.CacheProvider.CacheBase,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Providers\CacheProvider\CacheBase.cs,93,20,14
+WidgetsController,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\AppCode\Api\WidgetsController.cs,37,0,15
+App_Code.Controls.SearchBox,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\AppCode\Controls\SearchBox.cs,84,0,15
+BlogEngine.NET.AppCode.Api.PackageExtraController,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\AppCode\Api\PackageExtraController.cs,30,0,15
+BlogEngine.Core.DataStore.SerializableStringDictionary,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Web\Extensions\DataStore\SerializableStringDictionary.cs,83,1,15
+BlogEngine.Core.GalleryServer.PublishedScreenshot,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Service References\GalleryServer\Reference.cs,1039,2,15
+LookupsController,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\AppCode\Api\LookupsController.cs,40,0,16
+BlogEngine.Core.Data.Services.Avatar,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\Services\Avatar.cs,114,2,16
+BlogEngine.Core.GalleryServer.GalleryFeedContext,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Service References\GalleryServer\Reference.cs,1039,0,17
+BlogEngine.Core.Web.HttpHandlers.OpmlHandler,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Web\HttpHandlers\OpmlHandler.cs,92,0,17
+BlogEngine.Core.Web.HttpHandlers.RsdHandler,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Web\HttpHandlers\RsdHandler.cs,95,0,17
+FileSystemDataStreamProvider,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\AppCode\Api\FileSystemDataStreamProvider.cs,30,0,17
+TrashController,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\AppCode\Api\TrashController.cs,44,0,17
+App_Code.Extensions.StopForumSpam,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\Custom\Extensions\StopForumSpam.cs,118,0,17
+Account.ChangePassword,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\Account\change-password.aspx.designer.cs,46,0,17
+PersianCulture,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\AppCode\PersianCulture.cs,62,1,17
+App_Code.Controls.DefaultWidgetContainer,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\AppCode\Controls\WidgetContainer.cs,262,1,17
+BlogEngine.Core.StateList<T>,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Helpers\StateCollection.cs,128,22,17
+BlogEngine.Core.SecuritySiteMapProvider,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Services\Security\SecuritySiteMapProvider.cs,66,0,18
+NewsFeedController,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\AppCode\Api\NewsFeedController.cs,38,0,18
+ResolveLinks,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\Custom\Extensions\ResolveLinks.cs,176,0,18
+BlogEngine.NET.Custom.Widgets.CategoryList,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\Custom\Widgets\CategoryList\CategoryList.cs,33,0,18
+BlogEngine.NET.Custom.Widgets.LinkList,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\Custom\Widgets\LinkList\LinkList.cs,147,0,18
+BlogEngine.Core.Providers.DbFileSystemExtensions,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Providers\FileSystemProviders\DbFileSystemProvider.cs,517,1,18
+BlogEngine.Core.Web.BlogCulture,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Web\BlogCulture.cs,902,1,19
+App_Code.Controls.WidgetBase,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\AppCode\Controls\WidgetBase.cs,123,2,19
+BlogEngine.Core.Providers.DbConnectionHelper,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Providers\DbProvider\DbConnectionHelper.cs,227,3,19
+BlogEngine.Core.Web.HttpHandlers.RatingHandler,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Web\HttpHandlers\RatingHandler.cs,133,0,20
+BlogEngine.Core.Web.HttpHandlers.OpenSearchHandler,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Web\HttpHandlers\OpenSearchHandler.cs,91,0,20
+BlogEngine.Core.Compilation.ReflectExpressionBuilder,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Services\Compilation\ReflectExpressionBuilder.cs,212,0,20
+error_occurred,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\error.aspx.cs,35,0,20
+Admin.ExtensionsMasterPage,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\admin\admin.master.cs,63,0,20
+BlogEngine.Core.DataStore.StringDictionaryBehavior,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Web\Extensions\DataStore\StringDictionaryBehavior.cs,108,1,20
+BlogEngine.Core.DataStore.XmlDocumentBehavior,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Web\Extensions\DataStore\XMLDocumentBehavior.cs,144,3,20
+BlogEngine.Core.Web.Scripting.Helpers,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Web\Scripting\Helpers.cs,145,3,20
+BlogEngine.Core.Web.HttpModules.WwwSubDomainModule,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Web\HttpModules\WwwSubDomainModule.cs,152,0,21
+BlogEngine.Core.Web.HttpHandlers.JavaScriptHandler,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Web\HttpHandlers\JavaScriptHandler.cs,114,0,21
+BlogEngine.Core.Compilation.LinqLengthExpressionBuilder,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Services\Compilation\LinqLengthExpressionBuilder.cs,161,0,21
+BlogEngine.Core.XmlSafeResolver,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Helpers\XmlSafeResolver.cs,120,1,21
+Joel.Net.Akismet,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\Custom\Extensions\AkismetFilter.cs,606,1,21
+PingServicesController,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\AppCode\Api\PingServicesController.cs,63,0,22
+UsersController,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\AppCode\Api\UsersController.cs,81,0,22
+BlogEngine.Core.Ping.PingService,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Services\Messaging\Ping\PingService.cs,101,1,22
+BlogEngine.Core.Compilation.BaseServerObjectExpressionBuilder,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Services\Compilation\BaseServerObjectExpressionBuilder.cs,172,3,22
+BlogEngine.Core.FileSystem.Directory,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Services\FileSystem\Directory.cs,288,15,22
+BlogRollController,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\AppCode\Api\BlogRollController.cs,74,0,23
+CategoriesController,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\AppCode\Api\CategoriesController.cs,77,0,23
+RolesController,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\AppCode\Api\RolesController.cs,102,0,23
+TagsController,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\AppCode\Api\TagsController.cs,63,0,23
+BlogEngine.Core.Data.Services.Updater,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\Services\Updater.cs,145,1,23
+BlogEngine.Core.Providers.BlogProvider,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Providers\BlogProvider.cs,453,8,23
+BlogEngine.Core.Web.HttpHandlers.FileHandler,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Web\HttpHandlers\FileHandler.cs,169,0,24
+BlogEngine.Core.Web.Controls.PageSiteMap,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Web\Controls\PageSiteMap.cs,106,0,24
+CommentFilterController,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\AppCode\Api\CommentFilterController.cs,60,0,24
+BlogsController,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\AppCode\Api\BlogsController.cs,76,0,24
+CommentsController,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\AppCode\Api\CommentsController.cs,94,0,24
+PagesController,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\AppCode\Api\PagesController.cs,82,0,24
+PostsController,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\AppCode\Api\PostsController.cs,83,0,24
+BBCode,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\Custom\Extensions\BBCode.cs,193,0,24
+App_Code.Extensions.AkismetFilter,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\Custom\Extensions\AkismetFilter.cs,606,0,24
+BlogEngine.Core.GalleryServer.PublishedPackage,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Service References\GalleryServer\Reference.cs,1039,1,24
+App_Code.Controls.WidgetContainer,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\AppCode\Controls\WidgetContainer.cs,262,1,24
+BlogEngine.Core.FileSystem.FileStoreFileThumb,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Services\FileSystem\FileStoreDb.cs,846,3,24
+BlogEngine.Core.Providers.CacheProvider.CacheProvider,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Providers\CacheProvider\CacheProvider.cs,183,20,24
+CustomFieldsController,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\AppCode\Api\CustomFieldsController.cs,61,0,25
+BlogEngine.Core.Data.FileManagerRepository,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\FileManagerRepository.cs,71,1,25
+Recaptcha.RecaptchaLogger,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\Custom\Extensions\Recaptcha\RecaptchaLogger.cs,93,1,25
+BlogEngine.Core.FileSystem.FileStoreDirectory,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Services\FileSystem\FileStoreDb.cs,846,4,25
+Account.AccountMasterPage,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\Account\account.master.cs,98,5,25
+BlogEngine.Core.Comment,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Comment.cs,463,32,25
+SendPings,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\Custom\Extensions\SendPings.cs,113,0,26
+BlogEngine.NET.Custom.Widgets.MonthList,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\Custom\Widgets\MonthList\MonthList.cs,59,0,26
+Account.Login,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\Account\login.aspx.designer.cs,46,0,26
+App_Code.Controls.SimpleCaptchaControl,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\Custom\Extensions\SimpleCaptcha\SimpleCaptchaControl.cs,223,1,26
+BlogEngine.Core.Web.HttpModules.UrlRewrite,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Web\HttpModules\UrlRewrite.cs,262,0,27
+BlogEngine.Core.Web.HttpHandlers.ImageHandler,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Web\HttpHandlers\ImageHandler.cs,158,0,27
+Account.CreateBlog,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\Account\create-blog.aspx.designer.cs,127,0,27
+BlogEngine.Core.API.MetaWeblog.XMLRPCResponse,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\API\MetaWeblog\XMLRPCResponse.cs,1007,1,27
+BlogEngine.Core.BlogGeneratorConfig,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Helpers\BlogGeneratorConfig.cs,176,2,27
+BlogEngine.Core.Web.HttpHandlers.SiteMap,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Web\HttpHandlers\SiteMap.cs,109,0,28
+BlogEngine.Core.Data.CustomFilterRepository,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\CustomFilterRepository.cs,94,0,28
+FileManagerController,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\AppCode\Api\FileManagerController.cs,66,0,28
+RazorHostSite,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\Custom\Themes\RazorHost\site.master.cs,66,0,28
+App_Code.Controls.SearchOnSearch,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\AppCode\Controls\SearchOnSearch.cs,181,0,28
+Account.PasswordRetrieval,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\Account\password-retrieval.aspx.designer.cs,46,0,28
+BlogEngine.Core.Web.Controls.RelatedPostsBase,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Web\Controls\RelatedPostsBase.cs,127,1,28
+BlogEngine.Core.RemoteFile,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\RemoteFile.cs,290,5,28
+BlogEngine.Core.Web.Extensions.ManagedExtension,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Web\Extensions\ManagedExtension.cs,337,9,28
+SettingsController,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\AppCode\Api\SettingsController.cs,85,0,29
+SendCommentMail,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\Custom\Extensions\SendCommentMail.cs,151,0,29
+error404,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\error404.aspx.cs,123,0,29
+App_Code.Controls.WidgetZone,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\AppCode\Controls\WidgetZone.cs,118,0,29
+BlogEngine.Core.Ping.Manager,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Services\Messaging\Ping\Manager.cs,115,1,29
+BlogEngine.Core.Data.CustomFieldRepository,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\CustomFieldRepository.cs,170,1,29
+BlogEngine.Core.Data.ViewModels.BlogRollVM,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\ViewModels\BlogRollVM.cs,172,4,29
+BlogEngine.Core.Referrer,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Referrer.cs,385,5,29
+BlogEngine.Core.FileSystem.FileStoreFile,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Services\FileSystem\FileStoreDb.cs,846,5,29
+BlogEngine.Core.Providers.DbRoleProvider,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Providers\DbProvider\DbRoleProvider.cs,585,0,30
+BlogEngine.Core.Data.Services.TagCloud,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\Services\TagCloud.cs,125,0,30
+LogsController,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\AppCode\Api\LogsController.cs,98,0,30
+ToolsController,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\AppCode\Api\ToolsController.cs,141,0,30
+BlogEngine.Core.Ping.Trackback,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Services\Messaging\Ping\Trackback.cs,121,1,30
+BlogEngine.Core.Web.Scripting.PageHeader,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Web\Scripting\PageHeader.cs,179,1,30
+BlogEngine.Core.Data.WidgetsRepository,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\WidgetsRepository.cs,88,1,30
+BlogEngine.Core.Data.StatsRepository,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\StatsRepository.cs,80,1,30
+PackagesController,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\AppCode\Api\PackagesController.cs,163,0,31
+App_Code.Extensions.Logger,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\Custom\Extensions\Logger.cs,143,0,31
+BlogEngine.Core.Data.TagRepository,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\TagRepository.cs,126,1,31
+BlogEngine.Core.Providers.DbMembershipProvider,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Providers\DbProvider\DbMembershipProvider.cs,843,0,32
+App_Code.Controls.PostPager,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\AppCode\Controls\PostPager.cs,324,1,32
+App_Code.Controls.RelatedPosts,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\AppCode\Controls\RelatedPosts.cs,253,1,32
+BlogEngine.Core.FileSystem.File,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Services\FileSystem\File.cs,425,15,32
+page,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\page.aspx.cs,205,0,33
+Admin.Extensions.Settings,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\admin\Extensions\Settings.aspx.cs,56,0,33
+BlogEngine.Core.Data.BlogRepository,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\BlogRepository.cs,169,1,33
+Recaptcha.RecaptchaValidator,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\Custom\Extensions\Recaptcha\RecaptchaValidator.cs,195,1,33
+BlogEngine.Core.Web.HttpModules.CompressionModule,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Web\HttpModules\CompressionModule.cs,223,2,33
+BlogEngine.Core.Data.ViewModels.WidgetsVM,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\ViewModels\WidgetsVM.cs,176,3,33
+BreakPost,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\Custom\Extensions\BreakPost.cs,153,0,34
+Admin.Menu,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\admin\menu.ascx.cs,108,0,34
+BlogEngine.Core.Web.HttpHandlers.ResourceHandler,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Web\HttpHandlers\ResourceHandler.cs,202,1,34
+BlogEngine.Core.Data.CategoryRepository,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\CategoryRepository.cs,248,2,34
+BlogEngine.Core.Category,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Category.cs,484,27,34
+BlogEngine.Core.Web.HttpModules.ReferrerModule,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Web\HttpModules\ReferrerModule.cs,240,0,35
+BlogEngine.Core.Ping.Pingback,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Services\Messaging\Ping\Pingback.cs,165,1,35
+BlogEngine.Core.Data.CommentFilterRepository,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\CommentFilterRepository.cs,216,1,35
+BlogEngine.Core.FileSystem.FileSystemUtilities,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Services\FileSystem\FileSystemUtilities.cs,161,0,36
+BlogEngine.Core.Web.Controls.PageMenu,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Web\Controls\PageMenu.cs,173,1,36
+BlogEngine.Core.BlogGenerator,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Helpers\BlogGenerator.cs,269,4,36
+BlogEngine.Core.AuthorProfile,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\AuthorProfile.cs,637,12,36
+BlogEngine.Core.Web.HttpHandlers.TrackbackHandler,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Web\HttpHandlers\TrackbackHandler.cs,301,0,37
+BlogEngine.Core.Packaging.Installer,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Services\Packaging\Installer.cs,120,1,37
+BlogEngine.Core.Data.PageRepository,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\PageRepository.cs,214,1,37
+Account.Register,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\Account\register.aspx.designer.cs,55,0,38
+BlogEngine.Core.Web.Controls.CommentViewBase,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Web\Controls\CommentViewBase.cs,257,1,39
+BlogEngine.Core.API.BlogML.BlogImporter,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Services\Syndication\BlogML\BlogImporter.cs,112,1,39
+BlogEngine.NET.Custom.Widgets.Newsletter,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\Custom\Widgets\Newsletter\Newsletter.cs,193,1,39
+MediaElementPlayer,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\Custom\Extensions\MediaElementPlayer.cs,304,0,40
+BlogEngine.Core.Data.RolesRepository,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\RolesRepository.cs,279,1,40
+UserControls.PostList,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\Custom\Controls\PostList.ascx.cs,230,1,40
+BlogEngine.Core.Packaging.Gallery,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Services\Packaging\Gallery.cs,169,4,40
+BlogEngine.Core.Data.Services.Json,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\Services\Json.cs,264,4,40
+BlogEngine.Core.Data.Services.CustomFieldsParser,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\Services\CustomFieldsParser.cs,238,5,40
+BlogEngine.Core.Web.HttpHandlers.Apml,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Web\HttpHandlers\Apml.cs,351,0,41
+BlogEngine.Core.Providers.XmlFileSystemProvider,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Providers\FileSystemProviders\XmlFileSystemProvider.cs,340,0,41
+BlogEngine.Core.Data.CommentsRepository,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\CommentsRepository.cs,259,1,41
+BlogEngine.Core.Web.Controls.BlogBasePage,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Web\Controls\BlogBasePage.cs,296,10,41
+BlogEngine.Core.Web.HttpHandlers.BlogMLExportHandler,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Web\HttpHandlers\BlogMLExportHandler.cs,537,0,42
+BlogEngine.Core.Web.Scripting.WebResourceFilter,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Web\Scripting\WebResourceFilter.cs,346,1,42
+BlogEngine.Core.API.MetaWeblog.XMLRPCRequest,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\API\MetaWeblog\XMLRPCRequest.cs,509,1,42
+BlogEngine.Core.Data.PostRepository,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\PostRepository.cs,257,1,42
+BlogEngine.Core.Web.Controls.PostViewBase,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Web\Controls\PostViewBase.cs,365,2,42
+BlogEngine.Core.Web.Extensions.ExtensionSettings,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Web\Extensions\ExtensionSettings.cs,756,18,42
+BlogEngine.Core.Providers.BlogService,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Providers\BlogService.cs,971,34,42
+BlogEngine.Core.Web.UrlRules,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Web\UrlRules.cs,483,1,43
+"BlogEngine.Core.BusinessBase<T,TKey>",C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\BusinessBase.cs,678,87,43
+BlogEngine.Core.Providers.UNCFileSystemProvider,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Providers\FileSystemProviders\UNCFileSystemProvider.cs,364,0,44
+BlogEngine.Core.Data.TrashRepository,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\TrashRepository.cs,267,1,44
+BlogEngine.Core.Data.PackageRepository,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\PackageRepository.cs,239,2,44
+BlogEngine.Core.Data.ViewModels.DashboardVM,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\ViewModels\DashboardVM.cs,272,3,44
+search,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\search.aspx.cs,262,0,45
+App_Code.Controls.MonthList,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\AppCode\Controls\MonthList.cs,381,0,45
+BlogEngine.Core.Page,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Page.cs,734,23,45
+BlogEngine.Core.Web.HttpHandlers.Foaf,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Web\HttpHandlers\Foaf.cs,560,0,46
+post,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\post.aspx.cs,268,0,46
+App_Code.Controls.RecaptchaControl,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\Custom\Extensions\Recaptcha\RecaptchaControl.cs,619,4,46
+BlogEngine.Core.FileSystem.Image,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Services\FileSystem\Image.cs,339,6,46
+BlogEngine.Core.Web.Extensions.ExtensionManager,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Web\Extensions\ExtensionManager.cs,533,25,46
+App_Code.Controls.PostCalendar,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\AppCode\Controls\PostCalendar.cs,302,1,47
+BlogEngine.Core.Data.LookupsRepository,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\LookupsRepository.cs,201,1,48
+BlogEngine.Core.Blog,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Blog.cs,1073,80,48
+BlogEngine.Core.CommentHandlers,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Services\Messaging\Protection\CommentHandlers.cs,596,1,49
+BlogEngine.Core.Data.UsersRepository,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Data\UsersRepository.cs,401,1,49
+BlogEngine.Core.Web.HttpHandlers.PingbackHandler,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Web\HttpHandlers\PingbackHandler.cs,436,0,50
+contact,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\contact.aspx.cs,270,0,50
+archive,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\archive.aspx.cs,245,0,51
+RazorHelpers,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\AppCode\RazorHelpers.cs,208,2,51
+BlogEngine.Core.Right,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Services\Security\Right.cs,796,9,51
+BlogEngine.Core.Security,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Services\Security\Security.cs,518,61,52
+BlogEngine.Core.Providers.XmlRoleProvider,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Providers\XmlProvider\XmlRoleProvider.cs,549,0,54
+BlogEngine.Core.Web.HttpHandlers.SyndicationHandler,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Web\HttpHandlers\SyndicationHandler.cs,401,0,55
+UploadController,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\AppCode\Api\UploadController.cs,163,0,55
+BlogEngine.Core.Web.HttpHandlers.Sioc,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Web\HttpHandlers\Sioc.cs,706,0,56
+_default,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\default.aspx.cs,309,0,59
+BlogEngine.Core.Providers.XmlMembershipProvider,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Providers\XmlProvider\XmlMembershipProvider.cs,908,0,61
+BlogEngine.Core.Search,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Services\Search\Search.cs,728,7,61
+BlogEngine.Core.BlogSettings,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\BlogSettings.cs,1433,65,61
+BlogEngine.Core.SyndicationGenerator,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Services\Syndication\SyndicationGenerator.cs,0,1,62
+BlogEngine.Core.Providers.DbFileSystemProvider,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Providers\FileSystemProviders\DbFileSystemProvider.cs,517,0,64
+BlogEngine.Core.API.BlogML.BlogReader,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Services\Syndication\BlogML\BlogReader.cs,408,1,64
+BlogEngine.Core.Packaging.FileSystem,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Services\Packaging\FileSystem.cs,552,4,65
+BlogEngine.Core.API.MetaWeblog.MetaWeblogHandler,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\API\MetaWeblog\MetaWeblogHandler.cs,962,0,66
+BlogEngine.Core.Post,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Post.cs,2004,49,70
+UserControls.CommentList,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\Custom\Controls\CommentList.ascx.cs,981,1,75
+BlogEngine.Core.Providers.DbBlogProvider,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Providers\DbProvider\DbBlogProvider.cs,3295,0,76
+BlogEngine.NET.App_Start.BlogEngineConfig,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\AppCode\App_Start\BlogEngineConfig.cs,255,0,80
+Admin.Extensions.UserControlSettings,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.NET\admin\Extensions\Settings.ascx.cs,672,1,90
+BlogEngine.Core.Providers.XmlBlogProvider,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Providers\XmlProvider\Posts.cs,383,0,105
+BlogEngine.Core.Utils,C:\code\BlogEngineDotNet\BlogEngine.NET\BlogEngine\BlogEngine.Core\Helpers\Utils.cs,1668,119,153
